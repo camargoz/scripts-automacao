@@ -1,0 +1,303 @@
+{
+	"message": "Created! Yay!",
+	"data": [
+		{
+			"response": {
+				"affiliateds": [
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000159",
+						"headquarters": true,
+						"status": "-",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					},
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000230",
+						"status": "-",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					},
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000310",
+						"status": "-",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					},
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000400",
+						"status": "-",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					},
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000582",
+						"status": "-",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					}
+				],
+				"company_participations": [
+					{
+						"name": "FAZENDA SERRA AZUL",
+						"document": "10526937000582",
+						"status": "Inativa",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": true,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					},
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000159",
+						"status": "Inativa",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					},
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000230",
+						"status": "Inativa",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					},
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000310",
+						"status": "Inativa",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					},
+					{
+						"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+						"document": "10526937000400",
+						"status": "Inativa",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					}
+				],
+				"partners": [
+					{
+						"name": "FLAGGERTON DO BRASIL COMERCIO E PARTICIPACOES LTDA",
+						"document": "65628976000159",
+						"status": "Inativa",
+						"origin": "EXTERNAL",
+						"pep": {
+							"contain": false,
+							"result": {
+								"pep": [],
+								"nacionais": [],
+								"internacionais": []
+							}
+						},
+						"mpt": {
+							"contain": false,
+							"result": []
+						},
+						"offshore": {
+							"contain": false,
+							"result": {
+								"entities": [],
+								"intermediaries": [],
+								"officers": []
+							}
+						}
+					}
+				]
+			},
+			"vendor_url": "https://api.ph3a.com.br/DataBusca"
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"status_code": 1,
+	"message": "Consulta realizada com sucesso.",
+	"data": [
+		{
+			"address": [
+				{
+					"address": "AV PAULISTA, 1938, SAO PAULO - SP (CEP: 01310-200)",
+					"zip_code": "1310200",
+					"city": "SAO PAULO",
+					"neighborhood": "BELA VISTA",
+					"state": "SP",
+					"geo_location": {},
+					"street": "PAULISTA",
+					"rate": 10,
+					"street_number": "1938",
+					"main": false,
+					"active": true
+				},
+				{
+					"address": "FAZ SERRA AZUL, SN, SANTANA DO ARAGUAIA - PA (CEP: 68560-000)",
+					"zip_code": "68560000",
+					"city": "SANTANA DO ARAGUAIA",
+					"state": "PA",
+					"geo_location": {
+						"lat": -9.326225,
+						"long": -50.340333
+					},
+					"street": "SERRA AZUL",
+					"rate": 6,
+					"street_number": "SN",
+					"main": true,
+					"active": true
+				},
+				{
+					"address": "FAZENDA SERRA AZUL, SN, SANTANA DO ARAGUAIA - PA (CEP: 68560-000)",
+					"zip_code": "68560000",
+					"city": "SANTANA DO ARAGUAIA",
+					"state": "PA",
+					"geo_location": {},
+					"street": "SERRA AZUL",
+					"rate": 6,
+					"street_number": "SN",
+					"main": true,
+					"active": true
+				},
+				{
+					"address": "FAZ ZUL, SN, SANTANA DO ARAGUAIA - PA (CEP: 68560-000)",
+					"zip_code": "68560000",
+					"city": "SANTANA DO ARAGUAIA",
+					"state": "PA",
+					"geo_location": {},
+					"street": "ZUL",
+					"rate": 6,
+					"street_number": "SN",
+					"main": false,
+					"active": true
+				}
+			],
+			"emails": [],
+			"name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+			"document": "10526937000582",
+			"phones": [],
+			"economic_activity": "1340501 - ESTAMPARIA E TEXTURIZACAO EM FIOS, TECIDOS, ARTEFATOS TEXTEIS E PECAS DO VESTUARIO",
+			"secondary_activity": [],
+			"fantasy_name": "TECELAGEM PARAHYBA DO NORDESTE SA",
+			"fiscal_situation": "Inapta",
+			"created_date": "24/11/1975",
+			"legal_nature": "2054 - Sociedade Anônima Fechada",
+			"ibge": null
+		}
+	]
+}
