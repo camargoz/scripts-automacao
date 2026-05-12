@@ -1,0 +1,3490 @@
+{
+  "order_id": 256726,
+  "status": "SUCESSO",
+  "message": "INFORMATIONS_GOT",
+  "data": {
+    "dados_pessoais": {
+      "address": [
+        {
+          "address": "AVENIDA REPUBLICA DO CHILE, 65, RIO DE JANEIRO - RJ (CEP: 20031-170)",
+          "zip_code": "20031170",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "REPUBLICA DO CHILE",
+          "rate": 10,
+          "street_number": "65",
+          "main": true,
+          "active": true
+        },
+        {
+          "address": "R JOAO LOPES DE LIMA, 415, SAO PAULO - SP (CEP: 03976-020)",
+          "zip_code": "3976020",
+          "city": "SAO PAULO",
+          "neighborhood": "JARDIM SAPOPEMBA",
+          "state": "SP",
+          "street": "JOAO LOPES DE LIMA",
+          "rate": 10,
+          "street_number": "415",
+          "main": true,
+          "active": true
+        },
+        {
+          "address": "AV GETULIO VARGAS, 11001, CANOAS - RS (CEP: 92426-000)",
+          "zip_code": "92426000",
+          "city": "CANOAS",
+          "neighborhood": "BRIGADEIRA",
+          "state": "RS",
+          "street": "GETULIO VARGAS",
+          "rate": 10,
+          "street_number": "11001",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV RIO BRANCO, 1, RIO DE JANEIRO - RJ (CEP: 20090-000)",
+          "zip_code": "20090000",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "RIO BRANCO",
+          "rate": 10,
+          "street_number": "1",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R CARLOS SEIDL, 188, RIO DE JANEIRO - RJ (CEP: 20931-003)",
+          "zip_code": "20931003",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CAJU",
+          "state": "RJ",
+          "street": "CARLOS SEIDL",
+          "rate": 10,
+          "street_number": "188",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV REPUBLICA DO CHILE, 330 - BL 1, RIO DE JANEIRO - RJ (CEP: 20031-170)",
+          "zip_code": "20031170",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "REPUBLICA DO CHILE",
+          "rate": 10,
+          "street_number": "330",
+          "complement": "BL 1",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R BENJAMIN DAGNONI, 1, ITAJAI - SC (CEP: 88316-100)",
+          "zip_code": "88316100",
+          "city": "ITAJAI",
+          "neighborhood": "RIO DO MEIO",
+          "state": "SC",
+          "street": "BENJAMIN DAGNONI",
+          "rate": 10,
+          "street_number": "1",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R PAULO FRUMENCIO, 28, NITEROI - RJ (CEP: 24040-290)",
+          "zip_code": "24040290",
+          "city": "NITEROI",
+          "neighborhood": "PONTA D AREIA",
+          "state": "RJ",
+          "street": "PAULO FRUMENCIO",
+          "rate": 10,
+          "street_number": "28",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV ATLANTICA, 2964, RIO DE JANEIRO - RJ (CEP: 22070-000)",
+          "zip_code": "22070000",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "COPACABANA",
+          "state": "RJ",
+          "geo_location": {
+            "lat": -22.975871,
+            "long": -43.188006
+          },
+          "street": "ATLANTICA",
+          "rate": 10,
+          "street_number": "2964",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R FERREIRA VIANA, 81, RIO DE JANEIRO - RJ (CEP: 22210-040)",
+          "zip_code": "22210040",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "FLAMENGO",
+          "state": "RJ",
+          "street": "FERREIRA VIANA",
+          "rate": 10,
+          "street_number": "81",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R JULIO CARMO, 323, RIO DE JANEIRO - RJ (CEP: 20211-160)",
+          "zip_code": "20211160",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CIDADE NOVA",
+          "state": "RJ",
+          "street": "JULIO CARMO",
+          "rate": 10,
+          "street_number": "323",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "EST DOS BANDEIRANTES, 10916, RIO DE JANEIRO - RJ (CEP: 22783-111)",
+          "zip_code": "22783111",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CAMORIM",
+          "state": "RJ",
+          "street": "DOS BANDEIRANTES",
+          "rate": 10,
+          "street_number": "10916",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV TREZE DE MAIO, 41 - CJ 1301, RIO DE JANEIRO - RJ (CEP: 20031-007)",
+          "zip_code": "20031007",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "TREZE DE MAIO",
+          "rate": 10,
+          "street_number": "41",
+          "complement": "CJ 1301",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV ALBERTO SOARES SAMPAIO, 1740, MAUA - SP (CEP: 09380-000)",
+          "zip_code": "9380000",
+          "city": "MAUA",
+          "neighborhood": "CAPUAVA",
+          "state": "SP",
+          "street": "ALBERTO SOARES SAMPAIO",
+          "rate": 10,
+          "street_number": "1740",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R MORAIS E SILVA, 40, RIO DE JANEIRO - RJ (CEP: 20271-030)",
+          "zip_code": "20271030",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "MARACANA",
+          "state": "RJ",
+          "street": "MORAIS E SILVA",
+          "rate": 10,
+          "street_number": "40",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV RIO BRANCO, 89 - CJ 1002, RIO DE JANEIRO - RJ (CEP: 20040-004)",
+          "zip_code": "20040004",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "RIO BRANCO",
+          "rate": 10,
+          "street_number": "89",
+          "complement": "CJ 1002",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV PRES VARGAS, 3131 - AND 9 CJ 905, RIO DE JANEIRO - RJ (CEP: 20210-911)",
+          "zip_code": "20210911",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CIDADE NOVA",
+          "state": "RJ",
+          "street": "VARGAS",
+          "rate": 10,
+          "street_number": "3131",
+          "complement": "AND 9 CJ 905",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R S JOSE, 90 - CJ 1511, RIO DE JANEIRO - RJ (CEP: 20010-901)",
+          "zip_code": "20010901",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "JOSE",
+          "rate": 10,
+          "street_number": "90",
+          "complement": "CJ 1511",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV BR DO RIO BRANCO, 2390 - AND, JUIZ DE FORA - MG (CEP: 36016-310)",
+          "zip_code": "36016310",
+          "city": "JUIZ DE FORA",
+          "neighborhood": "CENTRO",
+          "state": "MG",
+          "street": "DO RIO BRANCO",
+          "rate": 10,
+          "street_number": "2390",
+          "complement": "AND",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV CARLOS BOTELHO, 718, PIRACICABA - SP (CEP: 13416-145)",
+          "zip_code": "13416145",
+          "city": "PIRACICABA",
+          "neighborhood": "SAO DIMAS",
+          "state": "SP",
+          "street": "CARLOS BOTELHO",
+          "rate": 10,
+          "street_number": "718",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV ATLANTICA, 3668, RIO DE JANEIRO - RJ (CEP: 22070-002)",
+          "zip_code": "22070002",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "COPACABANA",
+          "state": "RJ",
+          "street": "ATLANTICA",
+          "rate": 10,
+          "street_number": "3668",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R CINCO DE JULHO, 195, RIO DE JANEIRO - RJ (CEP: 22051-030)",
+          "zip_code": "22051030",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "COPACABANA",
+          "state": "RJ",
+          "geo_location": {
+            "lat": -22.971032,
+            "long": -43.190129
+          },
+          "street": "CINCO DE JULHO",
+          "rate": 10,
+          "street_number": "195",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV BORGES DE MEDEIROS, 3459, RIO DE JANEIRO - RJ (CEP: 22470-001)",
+          "zip_code": "22470001",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "LAGOA",
+          "state": "RJ",
+          "street": "BORGES DE MEDEIROS",
+          "rate": 10,
+          "street_number": "3459",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R ALEXANDRE MACKENZIE, 75, RIO DE JANEIRO - RJ (CEP: 20221-410)",
+          "zip_code": "20221410",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "ALEXANDRE MACKENZIE",
+          "rate": 10,
+          "street_number": "75",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "PC PIO X, 119, RIO DE JANEIRO - RJ (CEP: 20040-020)",
+          "zip_code": "20040020",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "PIO X",
+          "rate": 10,
+          "street_number": "119",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R LELIO GAMA, 115, RIO DE JANEIRO - RJ (CEP: 20031-080)",
+          "zip_code": "20031080",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "LELIO GAMA",
+          "rate": 10,
+          "street_number": "115",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV LUCIO COSTA, 3150, RIO DE JANEIRO - RJ (CEP: 22630-010)",
+          "zip_code": "22630010",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "BARRA DA TIJUCA",
+          "state": "RJ",
+          "street": "LUCIO COSTA",
+          "rate": 10,
+          "street_number": "3150",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV ELIAS AGOSTINHO, 665, MACAE - RJ (CEP: 27913-350)",
+          "zip_code": "27913350",
+          "city": "MACAE",
+          "neighborhood": "IMBETIBA",
+          "state": "RJ",
+          "geo_location": {
+            "lat": -22.383562,
+            "long": -41.771531
+          },
+          "street": "ELIAS AGOSTINHO",
+          "rate": 10,
+          "street_number": "665",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV GETULIO VARGAS, 447, BELO HORIZONTE - MG (CEP: 30112-020)",
+          "zip_code": "30112020",
+          "city": "BELO HORIZONTE",
+          "neighborhood": "FUNCIONARIOS",
+          "state": "MG",
+          "street": "GETULIO VARGAS",
+          "rate": 10,
+          "street_number": "447",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV EUZEBIO ROCHA, 1000, NATAL - RN (CEP: 59070-660)",
+          "zip_code": "59070660",
+          "city": "NATAL",
+          "neighborhood": "CIDADE DA ESPERANCA",
+          "state": "RN",
+          "geo_location": {
+            "lat": -5.82797,
+            "long": -35.23373
+          },
+          "street": "EUZEBIO ROCHA",
+          "rate": 10,
+          "street_number": "1000",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV HONORIO BICALHO, 11, RIO GRANDE - RS (CEP: 96201-020)",
+          "zip_code": "96201020",
+          "city": "RIO GRANDE",
+          "neighborhood": "GETULIO VARGAS",
+          "state": "RS",
+          "street": "HONORIO BICALHO",
+          "rate": 10,
+          "street_number": "11",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "ROD AMARAL PEIXOTO, 11000, MACAE - RJ (CEP: 27932-050)",
+          "zip_code": "27932050",
+          "city": "MACAE",
+          "neighborhood": "IMBOASSICA",
+          "state": "RJ",
+          "street": "AMARAL PEIXOTO",
+          "rate": 10,
+          "street_number": "11000",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV DE SANTA CRUZ, 10280, RIO DE JANEIRO - RJ (CEP: 23010-185)",
+          "zip_code": "23010185",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "SANTISSIMO",
+          "state": "RJ",
+          "street": "DE SANTA CRUZ",
+          "rate": 10,
+          "street_number": "10280",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "EST DO TRAPICHO, 164, ITAGUAI - RJ (CEP: 23812-380)",
+          "zip_code": "23812380",
+          "city": "ITAGUAI",
+          "neighborhood": "MONTE SERRAT",
+          "state": "RJ",
+          "street": "DO TRAPICHO",
+          "rate": 10,
+          "street_number": "164",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV DEP ESTEVES RODRIGUES, 97 - AND, MONTES CLAROS - MG (CEP: 39400-215)",
+          "zip_code": "39400215",
+          "city": "MONTES CLAROS",
+          "neighborhood": "CENTRO",
+          "state": "MG",
+          "street": "ESTEVES RODRIGUES",
+          "rate": 10,
+          "street_number": "97",
+          "complement": "AND",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV PRES VARGAS, 328 - AND, RIO DE JANEIRO - RJ (CEP: 20091-060)",
+          "zip_code": "20091060",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "VARGAS",
+          "rate": 10,
+          "street_number": "328",
+          "complement": "AND",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV REPUBLICA DO CHILE, 35, RIO DE JANEIRO - RJ (CEP: 20031-170)",
+          "zip_code": "20031170",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "REPUBLICA DO CHILE",
+          "rate": 10,
+          "street_number": "35",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R SEN DANTAS, 105 - AND, RIO DE JANEIRO - RJ (CEP: 20031-923)",
+          "zip_code": "20031923",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DANTAS",
+          "rate": 10,
+          "street_number": "105",
+          "complement": "AND",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV REPUBLICA DO CHILE, 65 - AND 10 CJ 1001, RIO DE JANEIRO - RJ (CEP: 20031-912)",
+          "zip_code": "20031912",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "REPUBLICA DO CHILE",
+          "rate": 10,
+          "street_number": "65",
+          "complement": "AND 10 CJ 1001",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV REPUBLICA DO CHILE, 500 - AND 25, RIO DE JANEIRO - RJ (CEP: 20031-170)",
+          "zip_code": "20031170",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "REPUBLICA DO CHILE",
+          "rate": 10,
+          "street_number": "500",
+          "complement": "AND 25",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R GEN CANABARRO, 500 - AND 6, RIO DE JANEIRO - RJ (CEP: 20271-900)",
+          "zip_code": "20271900",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "MARACANA",
+          "state": "RJ",
+          "street": "CANABARRO",
+          "rate": 10,
+          "street_number": "500",
+          "complement": "AND 6",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV PAULISTA, 901 - AND 5, SAO PAULO - SP (CEP: 01311-100)",
+          "zip_code": "1311100",
+          "city": "SAO PAULO",
+          "neighborhood": "BELA VISTA",
+          "state": "SP",
+          "street": "PAULISTA",
+          "rate": 10,
+          "street_number": "901",
+          "complement": "AND 5",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV REPUBLICA DO CHILE, 65 - BL 2 CJ 2502, RIO DE JANEIRO - RJ (CEP: 20031-170)",
+          "zip_code": "20031170",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "REPUBLICA DO CHILE",
+          "rate": 10,
+          "street_number": "65",
+          "complement": "BL 2 CJ 2502",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV VINTE DE JANEIRO, SN - CJ 3023, RIO DE JANEIRO - RJ (CEP: 21941-970)",
+          "zip_code": "21941970",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "GALEAO",
+          "state": "RJ",
+          "street": "VINTE DE JANEIRO",
+          "rate": 10,
+          "street_number": "SN",
+          "complement": "CJ 3023",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV NILO PECANHA, 151 - AND 6, RIO DE JANEIRO - RJ (CEP: 20020-100)",
+          "zip_code": "20020100",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "NILO PECANHA",
+          "rate": 10,
+          "street_number": "151",
+          "complement": "AND 6",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV AYRTON SENNA, 2541 - CS 72, RIO DE JANEIRO - RJ (CEP: 22775-002)",
+          "zip_code": "22775002",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "BARRA DA TIJUCA",
+          "state": "RJ",
+          "street": "AYRTON SENNA",
+          "rate": 10,
+          "street_number": "2541",
+          "complement": "CS 72",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV ALM BARROSO, 25 - AND 27 CJ 2756, RIO DE JANEIRO - RJ (CEP: 20031-003)",
+          "zip_code": "20031003",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "BARROSO",
+          "rate": 10,
+          "street_number": "25",
+          "complement": "AND 27 CJ 2756",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV BRG TROMPOWSKI, SN - Q 7, RIO DE JANEIRO - RJ (CEP: 21949-900)",
+          "zip_code": "21949900",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "GALEAO",
+          "state": "RJ",
+          "street": "TROMPOWSKI",
+          "rate": 10,
+          "street_number": "SN",
+          "complement": "Q 7",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV RIO BRANCO, 1 - CJ 504, RIO DE JANEIRO - RJ (CEP: 20090-907)",
+          "zip_code": "20090907",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "RIO BRANCO",
+          "rate": 10,
+          "street_number": "1",
+          "complement": "CJ 504",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R CARLOS SEIDL, 188, RIO DE JANEIRO - RJ (CEP: 20931-902)",
+          "zip_code": "20931902",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CAJU",
+          "state": "RJ",
+          "street": "CARLOS SEIDL",
+          "rate": 10,
+          "street_number": "188",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R DA QUITANDA, 199, RIO DE JANEIRO - RJ (CEP: 20091-005)",
+          "zip_code": "20091005",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DA QUITANDA",
+          "rate": 10,
+          "street_number": "199",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV ATLANTICA, 1800, RIO DE JANEIRO - RJ (CEP: 22021-001)",
+          "zip_code": "22021001",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "COPACABANA",
+          "state": "RJ",
+          "street": "ATLANTICA",
+          "rate": 10,
+          "street_number": "1800",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV HORACIO MACEDO, SN, RIO DE JANEIRO - RJ (CEP: 21941-598)",
+          "zip_code": "21941598",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CIDADE UNIVERSITARIA",
+          "state": "RJ",
+          "street": "HORACIO MACEDO",
+          "rate": 10,
+          "street_number": "SN",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV GETULIO VARGAS, SN, CANOAS - RS (CEP: 92420-221)",
+          "zip_code": "92420221",
+          "city": "CANOAS",
+          "neighborhood": "CENTRO",
+          "state": "RS",
+          "street": "GETULIO VARGAS",
+          "rate": 10,
+          "street_number": "SN",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV DAS INDUSTRIAS, SN, MONTES CLAROS - MG (CEP: 39404-621)",
+          "zip_code": "39404621",
+          "city": "MONTES CLAROS",
+          "neighborhood": "DISTRITO INDUSTRIAL",
+          "state": "MG",
+          "street": "DAS INDUSTRIAS",
+          "rate": 10,
+          "street_number": "SN",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R GASPAR RICARDO, 1326, OURINHOS - SP (CEP: 19911-832)",
+          "zip_code": "19911832",
+          "city": "OURINHOS",
+          "neighborhood": "VILA NOVA SA",
+          "state": "SP",
+          "geo_location": {
+            "lat": -22.963459,
+            "long": -49.869915
+          },
+          "street": "GASPAR RICARDO",
+          "rate": 10,
+          "street_number": "1326",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "PR DO FLAMENGO, 200, RIO DE JANEIRO - RJ (CEP: 22210-065)",
+          "zip_code": "22210065",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "FLAMENGO",
+          "state": "RJ",
+          "street": "DO FLAMENGO",
+          "rate": 10,
+          "street_number": "200",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV LINCOLN ALVES DOS SANTOS, SN - LT 8, MONTES CLAROS - MG (CEP: 39404-005)",
+          "zip_code": "39404005",
+          "city": "MONTES CLAROS",
+          "neighborhood": "DISTRITO INDUSTRIAL",
+          "state": "MG",
+          "street": "LINCOLN ALVES DOS SANTOS",
+          "rate": 10,
+          "street_number": "SN",
+          "complement": "LT 8",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R HENRIQUE LUIS ROESSLER, 100, CANOAS - RS (CEP: 92200-640)",
+          "zip_code": "92200640",
+          "city": "CANOAS",
+          "neighborhood": "RIO BRANCO",
+          "state": "RS",
+          "street": "HENRIQUE LUIS ROESSLER",
+          "rate": 10,
+          "street_number": "100",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV RIO BRANCO, 26, RIO DE JANEIRO - RJ (CEP: 20090-001)",
+          "zip_code": "20090001",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "RIO BRANCO",
+          "rate": 10,
+          "street_number": "26",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R DO SENADO, SN, RIO DE JANEIRO - RJ (CEP: 20231-000)",
+          "zip_code": "20231000",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DO SENADO",
+          "rate": 10,
+          "street_number": "SN",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "PR DE BOTAFOGO, 501 - CJ 603, RIO DE JANEIRO - RJ (CEP: 22250-040)",
+          "zip_code": "22250040",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "BOTAFOGO",
+          "state": "RJ",
+          "street": "DE BOTAFOGO",
+          "rate": 10,
+          "street_number": "501",
+          "complement": "CJ 603",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV CARLOS GOMES, 1223 - CJ 402, PORTO VELHO - RO (CEP: 76801-012)",
+          "zip_code": "76801012",
+          "city": "PORTO VELHO",
+          "neighborhood": "CENTRO",
+          "state": "RO",
+          "street": "CARLOS GOMES",
+          "rate": 10,
+          "street_number": "1223",
+          "complement": "CJ 402",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV JOSE BONIFACIO, 902 - AP 1802, BELEM - PA (CEP: 66063-075)",
+          "zip_code": "66063075",
+          "city": "BELEM",
+          "neighborhood": "SAO BRAS",
+          "state": "PA",
+          "street": "JOSE BONIFACIO",
+          "rate": 10,
+          "street_number": "902",
+          "complement": "AP 1802",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R GEN CANABARRO, 500 - CJ 107, RIO DE JANEIRO - RJ (CEP: 20271-205)",
+          "zip_code": "20271205",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "MARACANA",
+          "state": "RJ",
+          "street": "CANABARRO",
+          "rate": 9,
+          "street_number": "500",
+          "complement": "CJ 107",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R VOLUNTARIOS DA PATRIA, 143, RIO DE JANEIRO - RJ (CEP: 22270-000)",
+          "zip_code": "22270000",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "BOTAFOGO",
+          "state": "RJ",
+          "street": "VOLUNTARIOS DA PATRIA",
+          "rate": 9,
+          "street_number": "143",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R DA ASSEMBLEIA, 10, RIO DE JANEIRO - RJ (CEP: 20011-001)",
+          "zip_code": "20011001",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DA ASSEMBLEIA",
+          "rate": 9,
+          "street_number": "10",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R DA ASSEMBLEIA, 100, RIO DE JANEIRO - RJ (CEP: 20011-001)",
+          "zip_code": "20011001",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DA ASSEMBLEIA",
+          "rate": 9,
+          "street_number": "100",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R SEN DANTAS, 105, RIO DE JANEIRO - RJ (CEP: 20031-205)",
+          "zip_code": "20031205",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DANTAS",
+          "rate": 9,
+          "street_number": "105",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R GEN GURJAO, 2, RIO DE JANEIRO - RJ (CEP: 20931-040)",
+          "zip_code": "20931040",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CAJU",
+          "state": "RJ",
+          "street": "GURJAO",
+          "rate": 9,
+          "street_number": "2",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV ALM BARROSO, 81 - CJ 1, RIO DE JANEIRO - RJ (CEP: 20031-004)",
+          "zip_code": "20031004",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "BARROSO",
+          "rate": 9,
+          "street_number": "81",
+          "complement": "CJ 1",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R DA QUITANDA, 52 - AND, RIO DE JANEIRO - RJ (CEP: 20011-030)",
+          "zip_code": "20011030",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DA QUITANDA",
+          "rate": 9,
+          "street_number": "52",
+          "complement": "AND",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R DA ASSEMBLEIA, 100 - AND 5, RIO DE JANEIRO - RJ (CEP: 20011-904)",
+          "zip_code": "20011904",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DA ASSEMBLEIA",
+          "rate": 9,
+          "street_number": "100",
+          "complement": "AND 5",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV PRES VARGAS, 392, RIO DE JANEIRO - RJ (CEP: 20071-000)",
+          "zip_code": "20071000",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "VARGAS",
+          "rate": 9,
+          "street_number": "392",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R TEN MESQUITA, 57 - AP 1201, NITEROI - RJ (CEP: 24220-060)",
+          "zip_code": "24220060",
+          "city": "NITEROI",
+          "neighborhood": "SANTA ROSA",
+          "state": "RJ",
+          "street": "MESQUITA",
+          "rate": 9,
+          "street_number": "57",
+          "complement": "AP 1201",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R SEN DANTAS, 118, RIO DE JANEIRO - RJ (CEP: 20031-202)",
+          "zip_code": "20031202",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DANTAS",
+          "rate": 9,
+          "street_number": "118",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV ILHA DO FUNDAO, SN - Q 7, RIO DE JANEIRO - RJ (CEP: 21910-240)",
+          "zip_code": "21910240",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "BANCARIOS",
+          "state": "RJ",
+          "street": "ILHA DO FUNDAO",
+          "rate": 9,
+          "street_number": "SN",
+          "complement": "Q 7",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R DR REINALDO SCHMITHAUSEN, 2977, ITAJAI - SC (CEP: 88311-481)",
+          "zip_code": "88311481",
+          "city": "ITAJAI",
+          "neighborhood": "CORDEIROS",
+          "state": "SC",
+          "street": "REINALDO SCHMITHAUSEN",
+          "rate": 9,
+          "street_number": "2977",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV PREF MENDES DE MORAIS, 222, RIO DE JANEIRO - RJ (CEP: 22610-095)",
+          "zip_code": "22610095",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "SAO CONRADO",
+          "state": "RJ",
+          "street": "MENDES DE MORAIS",
+          "rate": 9,
+          "street_number": "222",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R DA LAPA, 47, RIO DE JANEIRO - RJ (CEP: 20021-180)",
+          "zip_code": "20021180",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DA LAPA",
+          "rate": 9,
+          "street_number": "47",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R DA ALFANDEGA, 41, RIO DE JANEIRO - RJ (CEP: 20070-000)",
+          "zip_code": "20070000",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DA ALFANDEGA",
+          "rate": 9,
+          "street_number": "41",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R DA ASSEMBLEIA, 10 - AND 31 CJ 11, RIO DE JANEIRO - RJ (CEP: 20011-901)",
+          "zip_code": "20011901",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "DA ASSEMBLEIA",
+          "rate": 9,
+          "street_number": "10",
+          "complement": "AND 31 CJ 11",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "PC MAL STENIO CAIO DE ALBUQUERQUE LIMA, 1, CUBATAO - SP (CEP: 11555-000)",
+          "zip_code": "11555000",
+          "city": "CUBATAO",
+          "neighborhood": "ZONA INDUSTRIAL",
+          "state": "SP",
+          "geo_location": {
+            "lat": -23.866346,
+            "long": -46.439447
+          },
+          "street": "STENIO CAIO DE ALBUQUERQUE LIMA",
+          "rate": 9,
+          "street_number": "1",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "ROD AMARAL PEIXOTO, 11000, MACAE - RJ (CEP: 27925-290)",
+          "zip_code": "27925290",
+          "city": "MACAE",
+          "neighborhood": "LAGOA",
+          "state": "RJ",
+          "street": "AMARAL PEIXOTO",
+          "rate": 9,
+          "street_number": "11000",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R VSC DE NACAR, 1424, CURITIBA - PR (CEP: 80410-201)",
+          "zip_code": "80410201",
+          "city": "CURITIBA",
+          "neighborhood": "CENTRO",
+          "state": "PR",
+          "street": "DE NACAR",
+          "rate": 9,
+          "street_number": "1424",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R PRF HERMES LIMA, 285 - AP 1, RIO DE JANEIRO - RJ (CEP: 22795-061)",
+          "zip_code": "22795061",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "RECREIO DOS BANDEIRANTES",
+          "state": "RJ",
+          "street": "HERMES LIMA",
+          "rate": 9,
+          "street_number": "285",
+          "complement": "AP 1",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV LUCIO COSTA, 2630, RIO DE JANEIRO - RJ (CEP: 22620-172)",
+          "zip_code": "22620172",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "BARRA DA TIJUCA",
+          "state": "RJ",
+          "street": "LUCIO COSTA",
+          "rate": 8,
+          "street_number": "2630",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "EST DE BOTAFOGO, 501, RIO DE JANEIRO - RJ (CEP: 21532-205)",
+          "zip_code": "21532205",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "PAVUNA",
+          "state": "RJ",
+          "street": "DE BOTAFOGO",
+          "rate": 8,
+          "street_number": "501",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "ROD MS 395, 395, TRES LAGOAS - MS (CEP: 79621-067)",
+          "zip_code": "79621067",
+          "city": "TRES LAGOAS",
+          "neighborhood": "VILA MARIA",
+          "state": "MS",
+          "street": "MS 395",
+          "rate": 8,
+          "street_number": "395",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV N SRA DA PENHA, 1688 - BL 2, VITORIA - ES (CEP: 29057-550)",
+          "zip_code": "29057550",
+          "city": "VITORIA",
+          "neighborhood": "BARRO VERMELHO",
+          "state": "ES",
+          "street": "DA PENHA",
+          "rate": 7,
+          "street_number": "1688",
+          "complement": "BL 2",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "SRV ANTONIO ALEXANDRE CORDEIRO, 40, CORREAS - RJ (CEP: 25720-000)",
+          "zip_code": "25720000",
+          "city": "CORREAS",
+          "neighborhood": "ROSEIRAL",
+          "state": "RJ",
+          "street": "ANTONIO ALEXANDRE CORDEIRO",
+          "rate": 7,
+          "street_number": "40",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "ROD GOV MARIO COVAS, - KM 6755 KM, SAO MATEUS - ES (CEP: 29932-850)",
+          "zip_code": "29932850",
+          "city": "SAO MATEUS",
+          "neighborhood": "JAMBEIRO",
+          "state": "ES",
+          "street": "MARIO COVAS",
+          "rate": 7,
+          "complement": "KM 6755 KM",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R VOLUNTARIOS DA PATRIA, 254 - LJ, RIO DE JANEIRO - RJ (CEP: 22270-970)",
+          "zip_code": "22270970",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "BOTAFOGO",
+          "state": "RJ",
+          "street": "VOLUNTARIOS DA PATRIA",
+          "rate": 7,
+          "street_number": "254",
+          "complement": "LJ",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "R S BENTO, SN - KM 3, ARARAQUARA - SP (CEP: 14801-300)",
+          "zip_code": "14801300",
+          "city": "ARARAQUARA",
+          "neighborhood": "CENTRO",
+          "state": "SP",
+          "street": "BENTO",
+          "rate": 7,
+          "street_number": "SN",
+          "complement": "KM 3",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "ROD CON DOMENICO RANGONI, 1, CUBATAO - SP (CEP: 11553-000)",
+          "zip_code": "11553000",
+          "city": "CUBATAO",
+          "neighborhood": "VILA ELIZABETH",
+          "state": "SP",
+          "street": "DOMENICO RANGONI",
+          "rate": 7,
+          "street_number": "1",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "R ISABEL RODRIGUES FERNANDES, 1740, MAUA - SP (CEP: 09340-741)",
+          "zip_code": "9340741",
+          "city": "MAUA",
+          "neighborhood": "JARDIM SAO JOSE",
+          "state": "SP",
+          "street": "ISABEL RODRIGUES FERNANDES",
+          "rate": 7,
+          "street_number": "1740",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV RIO BRANCO, 124 - AND 9 LT BEIRA MAR 9, RIO DE JANEIRO - RJ (CEP: 20040-001)",
+          "zip_code": "20040001",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "RIO BRANCO",
+          "rate": 7,
+          "street_number": "124",
+          "complement": "AND 9 LT BEIRA MAR 9",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "AV RIO BRANCO, 116 - LT BEIRA MAR 9, RIO DE JANEIRO - RJ (CEP: 20040-001)",
+          "zip_code": "20040001",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "RIO BRANCO",
+          "rate": 7,
+          "street_number": "116",
+          "complement": "LT BEIRA MAR 9",
+          "main": false,
+          "active": false
+        },
+        {
+          "address": "EST LIMAO, 2900, ANCHIETA - ES (CEP: 29230-000)",
+          "zip_code": "29230000",
+          "city": "ANCHIETA",
+          "neighborhood": "LIMAO",
+          "state": "ES",
+          "street": "LIMAO",
+          "rate": 6,
+          "street_number": "2900",
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "FAZ LAMARAO, , PILAR - AL (CEP: 57150-000)",
+          "zip_code": "57150000",
+          "city": "PILAR",
+          "neighborhood": "CENTRO",
+          "state": "AL",
+          "street": "LAMARAO",
+          "rate": 5,
+          "main": false,
+          "active": true
+        },
+        {
+          "address": "AV REPUBLICA DO CHILE, , RIO DE JANEIRO - RJ (CEP: 20031-170)",
+          "zip_code": "20031170",
+          "city": "RIO DE JANEIRO",
+          "neighborhood": "CENTRO",
+          "state": "RJ",
+          "street": "REPUBLICA DO CHILE",
+          "rate": 4,
+          "main": false,
+          "active": true
+        }
+      ],
+      "emails": [
+        {
+          "email": "fgcaetanoleite@gmail.com",
+          "rate": 10,
+          "main": true
+        },
+        {
+          "email": "mariovini@uol.com.br",
+          "rate": 10,
+          "main": true
+        },
+        {
+          "email": "s_dahan@hotmail.com",
+          "rate": 10,
+          "main": true
+        },
+        {
+          "email": "mchambriard@yahoo.com.br",
+          "rate": 10,
+          "main": true
+        },
+        {
+          "email": "rafael_m_gomes@yahoo.com",
+          "rate": 10,
+          "main": true
+        },
+        {
+          "email": "castellobranco.roberto@gmail.com",
+          "rate": 10,
+          "main": true
+        },
+        {
+          "email": "jpprates@riograndedonorte.net",
+          "rate": 10,
+          "main": true
+        },
+        {
+          "email": "paulo_@hotmail.com",
+          "rate": 10,
+          "main": false
+        },
+        {
+          "email": "caiom@webforce.com.br",
+          "rate": 10,
+          "main": false
+        },
+        {
+          "email": "assismarco@yahoo.com.br",
+          "rate": 9,
+          "main": false
+        },
+        {
+          "email": "luverocha@hotmail.com",
+          "rate": 9,
+          "main": false
+        },
+        {
+          "email": "luzerocha@hotmail.com",
+          "rate": 9,
+          "main": false
+        },
+        {
+          "email": "vanessssamo@hotmail.com",
+          "rate": 9,
+          "main": false
+        },
+        {
+          "email": "reduque@terra.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "schloser@uol.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "rsgriso@hotmail.com",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "rafael.gomes@sun.com",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "aquisicoes.tic_es@petrobras.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "acervo@petrobras.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "pinachia@terra.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "salvador@prot.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "tluna@inteletto.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "joao.adalberto@terra.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "a.bendine@uol.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "joseformigli@uol.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "ricsan@hotmail.com",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "alcides@ctgas.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "josealcides@br.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "mario_vini@yahoo.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "alcides.santoro@epe.gov.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "bendine@bol.com.br",
+          "rate": 8,
+          "main": false
+        },
+        {
+          "email": "frank@geocities.com",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "adm@innovision.com.br",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "nldcs@uol.com.br",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "cybercom@geocities.com",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "rbeltramo@geocities.com",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "rio47965@terra.com.br",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "yasai@ig.com.br",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "adm@egesa.com.br",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "labomm3@teranet.com.br",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "rocarram@hotmail.com",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "julval@terra.com.br",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "info@eliteinternational.com",
+          "rate": 7,
+          "main": false
+        },
+        {
+          "email": "jmfcoelho@yahoo.com.br",
+          "rate": 5,
+          "main": true
+        },
+        {
+          "email": "claricecoppetti@yahoo.com.br",
+          "rate": 5,
+          "main": true
+        },
+        {
+          "email": "clarice.coppetti@yahoo.com.br",
+          "rate": 5,
+          "main": false
+        },
+        {
+          "email": "alves.rodrigoaraujo@gmail.com",
+          "rate": 3,
+          "main": true
+        },
+        {
+          "email": "zelada@uol.com.br",
+          "rate": 3,
+          "main": true
+        },
+        {
+          "email": "rodrigoaraujo.alves@yahoo.com",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "atendimentofiscossco@petrobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "caetano.leite@terra.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "rafael-gomes@uol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "relacionamento.fisco@petrobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "solange@ep.petrobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "cc-rfisc@petrobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "soniaofig@yahoo.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "szenza@uol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "caiom@superig.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "epcar11@terra.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "joelsonmendes@terra.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "rafaanaleo@terra.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "jmf.coelho@terra.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "fcosystem@uol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "osmar@powerline.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "veracocenza@globo.com",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "fluidfeeder@uol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "cesarh@bol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "elizabethe@petrobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "najara.personal@petrobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "micke2@algonet.se",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "adller@representacoes.net",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "e.farah@iconet.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "hrepsold@terra.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "usinaideias@bol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "joao@sobralnet.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "aix-l@ibeuce.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "pcosta@tbg.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "renatofontes@petrobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "nao@informado.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "tiago_luna@uol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "dolphin1@lrn.yazigi.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "emac02@uol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "atendimento@sinalin.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "contato@uricer.edu.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "rsantos@fgvmail.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "rsilva@mindbrasil.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "tquenot@embraer.fr",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "mastella@ccard.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "cs@kanopus.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "fborges@ep-seal.petrobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "arv@existeumlugar.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "adm@luthier.mombach.nom.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "adm@interobras.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "adm@tkwm.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "adm@servivo.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "atendimento@edinternet.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "atendimento@idesol.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "dudu@sunnet.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "camposre@camposre.com.br",
+          "rate": 3,
+          "main": false
+        },
+        {
+          "email": "frautes@ig.com.br",
+          "rate": 3,
+          "main": false
+        }
+      ],
+      "name": "PETROLEO BRASILEIRO S A PETROBRAS",
+      "document": "33000167000101",
+      "phones": [
+        {
+          "phone": "(21) 99700-6785",
+          "rate": 10,
+          "status": "Ativa",
+          "main": true
+        },
+        {
+          "phone": "(21) 2237-9889",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2237-9918",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2237-9933",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2262-0827",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2262-1377",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5609",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5626",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5696",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5774",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5835",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5857",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5952",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5968",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6450",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6477",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6498",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6504",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6516",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6528",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6559",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6566",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6571",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6627",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6634",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6705",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6800",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6813",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6867",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7424",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7438",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7455",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7501",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7543",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7610",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7633",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7671",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7672",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7678",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7680",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7907",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-7973",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9001",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9098",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9282",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9289",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9307",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9497",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9576",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9601",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9645",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9725",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2531-9235",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2531-9626",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2531-9665",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0102",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0197",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0205",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0256",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0257",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0296",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0403",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0404",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0452",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0478",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0492",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0520",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0610",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0627",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0640",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0714",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0731",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0906",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0958",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1075",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1126",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1129",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1364",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1449",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1512",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1608",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1677",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1698",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1729",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1732",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1838",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1847",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1938",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1976",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1985",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-2002",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-2019",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-2030",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-2074",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-2101",
+          "rate": 5,
+          "status": "Ativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 98106-4991",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 98121-7930",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 96723-9844",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99865-0455",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 98133-7503",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 98152-2478",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99645-7010",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 96764-7932",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 98181-0456",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 98229-9170",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5817",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-5863",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6444",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6487",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-6857",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2515-9618",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0246",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-0824",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1459",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1592",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-1803",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-2006",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-2722",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-3316",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-6263",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-8014",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-8045",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2534-9491",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 2707-0497",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3212-6343",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3212-6383",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3227-5950",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-0594",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-0693",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-1068",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-2294",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-2371",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-3311",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-5614",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-6328",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-6385",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-7883",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-7976",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-8017",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-8632",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-9397",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-9525",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3229-9879",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(27) 3295-9228",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(28) 3360-6710",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(28) 3360-6799",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(24) 3361-3969",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3380-2433",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3380-2779",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3380-5355",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3380-5366",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3380-5393",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(31) 3472-2356",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(31) 3472-2447",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-0056",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-0146",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-0147",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-0524",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-0650",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-0957",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-1011",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-1229",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-1392",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-1660",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-2237",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-2501",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-2592",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-6269",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-6290",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-6406",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-6806",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-7357",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-8061",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-8250",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-9319",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-9470",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 3487-9711",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 96741-7148",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 96756-8430",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 96780-9604",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 97186-6287",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 97197-6098",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 97219-2292",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 97290-5222",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 98021-5455",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 98701-2231",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99511-3504",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99540-9782",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99588-6401",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99612-9636",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99621-2684",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99625-3131",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99657-6102",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99660-6731",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99680-2316",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99854-5312",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99863-9832",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99981-6527",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99992-3461",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        },
+        {
+          "phone": "(21) 99997-8998",
+          "rate": 1,
+          "status": "Inativa",
+          "main": false
+        }
+      ],
+      "economic_activity": "600001 - EXTRACAO DE PETROLEO E GAS NATURAL",
+      "secondary_activity": [
+        "3520401 - PRODUCAO DE GAS, PROCESSAMENTO DE GAS NATURAL",
+        "4681801 - COMERCIO ATACADISTA DE ALCOOL CARBURANTE, BIODIESEL, GASOLINA E DEMAIS DERIVADOS DE PETROLEO, EXCETO LUBRIFICANTES, NAO REALIZADO POR TRANSPORTADOR RETALHISTA (TRR)",
+        "1921700 - FABRICACAO DE PRODUTOS DO REFINO DE PETROLEO",
+        "3520402 - DISTRIBUICAO DE COMBUSTIVEIS GASOSOS POR REDES URBANAS",
+        "8630599 - ATIVIDADES DE ATENCAO AMBULATORIAL NAO ESPECIFICADAS ANTERIORMENTE"
+      ],
+      "fantasy_name": "PETROLEO BRASILEIRO S A PETROBRAS",
+      "fiscal_situation": "Ativa",
+      "created_date": "28/09/1966",
+      "legal_nature": "2038 - Sociedade de Economia Mista",
+      "ibge": null
+    },
+    "renda": {
+      "document": "33000167000101",
+      "estimated_annual_revenue": 2443889442,
+      "number_of_employees": 1401,
+      "number_of_owners": 1,
+      "share_capital": 205431960490.52,
+      "size": "Empresa de Grande Porte",
+      "score_credit": {
+        "d00": "223",
+        "d30": "228",
+        "d60": "228",
+        "d90": "231",
+        "success": true,
+        "message": null
+      }
+    },
+    "pessoas_contato": [
+      {
+        "name": "RENATA FARIA RODRIGUES BARUZZI LOPES",
+        "document": "06994461807",
+        "relation": "Diretor",
+        "status": "Ativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "ALDEMIR BENDINE",
+        "document": "04398040862",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "ALMIR GUILHERME BARBASSA",
+        "document": "01211358615",
+        "relation": "Diretor",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "ANDRE BARRETO CHIARINI",
+        "document": "02338073738",
+        "relation": "Diretor",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "ANDREA MARQUES DE ALMEIDA",
+        "document": "01470135779",
+        "relation": "Diretor",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "GUILHERME DE OLIVEIRA ESTRELLA",
+        "document": "01277162700",
+        "relation": "Diretor",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "JOSE SERGIO GABRIELLI DE AZEVEDO",
+        "document": "04275039572",
+        "relation": "Presidente",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "JULIANO DE CARVALHO DANTAS",
+        "document": "02312253429",
+        "relation": "Diretor",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "MARIO VINICIUS CLAUSSEN SPINELLI",
+        "document": "01138221708",
+        "relation": "Diretor",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      },
+      {
+        "name": "ROBERTO DA CUNHA CASTELLO BRANCO",
+        "document": "03138909787",
+        "relation": "Presidente",
+        "status": "Inativa",
+        "origin": "EXTERNAL"
+      }
+    ],
+    "sociedades": [
+      {
+        "document": "06994461807",
+        "name": "RENATA FARIA RODRIGUES BARUZZI LOPES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "34791213734",
+        "name": "ANGELICA GARCIA COBAS LAUREANO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "35499524068",
+        "name": "CLARICE COPPETTI",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "40607712015",
+        "name": "CLAUDIO ROMEO SCHLOSSER",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "44370121787",
+        "name": "SYLVIA MARIA COUTO DOS ANJOS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "53365011072",
+        "name": "FERNANDO SABBI MELGAREJO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "63501783191",
+        "name": "RICARDO WAGNER DE ARAUJO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "67361293700",
+        "name": "MAGDA MARIA DE REGINA CHAMBRIARD",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "80148778704",
+        "name": "WILLIAM FRANCA DA SILVA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "67410090782",
+        "name": "MAURICIO TIOMNO TOLMASQUIM",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "01138221708",
+        "name": "MARIO VINICIUS CLAUSSEN SPINELLI",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "51292165553",
+        "name": "SERGIO CAETANO LEITE",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "77017838734",
+        "name": "JOELSON FALCAO MENDES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "86721283700",
+        "name": "JEAN PAUL TERRA PRATES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "92362206734",
+        "name": "CARLOS JOSE DO NASCIMENTO TRAVASSOS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "27267282865",
+        "name": "SALVADOR DAHAN",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "95913319753",
+        "name": "CARLOS AUGUSTO BURGOS BARRETO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "07310039696",
+        "name": "RODRIGO ARAUJO ALVES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "07666600879",
+        "name": "PAULO PALAIA SICA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "32686510544",
+        "name": "CAIO MARIO PAES DE ANDRADE",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "35583487020",
+        "name": "CLAUDIO ROGERIO LINASSI MASTELLA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "43052231634",
+        "name": "JOAO HENRIQUE RITTERSHAUSSEN",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "50638270634",
+        "name": "FERNANDO ASSUMPCAO BORGES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "76344533072",
+        "name": "RAFAEL CHAVES SANTOS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "91880742500",
+        "name": "RODRIGO COSTA LIMA E SILVA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "02312253429",
+        "name": "JULIANO DE CARVALHO DANTAS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "75537966700",
+        "name": "JOSE MAURO FERREIRA COELHO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "23113632803",
+        "name": "NICOLAS SIMONE",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "33486476734",
+        "name": "JOAQUIM SILVA E LUNA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "33158150034",
+        "name": "ROBERTO FURIAN ARDENGHY",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "01470135779",
+        "name": "ANDREA MARQUES DE ALMEIDA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "02338073738",
+        "name": "ANDRE BARRETO CHIARINI",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "03138909787",
+        "name": "ROBERTO DA CUNHA CASTELLO BRANCO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "40508625068",
+        "name": "RUDIMAR ANDREIS LORENZATTO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "47191147687",
+        "name": "ANELISE QUINTAO LARA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "53963890797",
+        "name": "CARLOS ALBERTO PEREIRA DE OLIVEIRA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "87424274600",
+        "name": "MARCELO BARBOSA DE CASTRO ZENKNER",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "73710989787",
+        "name": "EBERALDO DE ALMEIDA NETO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "13681307806",
+        "name": "RAFAEL MENDES GOMES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "86864173704",
+        "name": "RAFAEL SALVADOR GRISOLIA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "43664407687",
+        "name": "SOLANGE DA SILVA GUEDES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "54362687734",
+        "name": "HUGO REPSOLD JUNIOR",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "67174191720",
+        "name": "JORGE CELESTINO RAMOS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "76629368800",
+        "name": "NELSON LUIZ COSTA SILVA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "66744407791",
+        "name": "IVAN DE SOUZA MONTEIRO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "55000304772",
+        "name": "JOAO ADALBERTO ELEK JUNIOR",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "04398040862",
+        "name": "ALDEMIR BENDINE",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "34758640610",
+        "name": "JOSE EDUARDO DE BARROS DUTRA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "01211358615",
+        "name": "ALMIR GUILHERME BARBASSA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "01277162700",
+        "name": "GUILHERME DE OLIVEIRA ESTRELLA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      }
+    ],
+    "empresas_relacionadas": [
+      {
+        "document": "04383683000164",
+        "name": "ACAR AMAZONAS",
+        "partner": "ESTEVES PEDRO COLNAGO",
+        "relation": "Presidente"
+      },
+      {
+        "document": "02619872000168",
+        "name": "C & C EMPREENDIMENTOS AGROPEC E PARTICIPACOES LTDA",
+        "partner": "ESTEVES PEDRO COLNAGO"
+      },
+      {
+        "document": "02063613000101",
+        "name": "CHURRASCARIA DIVISAO",
+        "partner": "PAULO AFONSO ROMANO",
+        "relation": "Socio"
+      },
+      {
+        "document": "00091652000189",
+        "name": "COMPANHIA DE PESQUISA DE RECURSOS MINERAIS CPRM",
+        "partner": "ESTEVES PEDRO COLNAGO",
+        "relation": "Presidente"
+      },
+      {
+        "document": "00091652000189",
+        "name": "COMPANHIA DE PESQUISA DE RECURSOS MINERAIS CPRM",
+        "partner": "FERNANDO PEREIRA DE CARVALHO",
+        "relation": "Diretor"
+      },
+      {
+        "document": "00091652000189",
+        "name": "COMPANHIA DE PESQUISA DE RECURSOS MINERAIS CPRM",
+        "partner": "PAULO AFONSO ROMANO",
+        "relation": "Diretor"
+      },
+      {
+        "document": "21790076000138",
+        "name": "CURRAL DO FOGO",
+        "partner": "PAULO AFONSO ROMANO"
+      },
+      {
+        "document": "05686510000188",
+        "name": "EPC ASSESSORIA E CONSULTORIA",
+        "partner": "ESTEVES PEDRO COLNAGO",
+        "relation": "Socio Administrador"
+      },
+      {
+        "document": "05366492000157",
+        "name": "INCORPE",
+        "partner": "ESTEVES PEDRO COLNAGO"
+      },
+      {
+        "document": "39916194000105",
+        "name": "LS2F CONSULTORIA",
+        "partner": "FERNANDO PEREIRA DE CARVALHO",
+        "relation": "Socio"
+      },
+      {
+        "document": "10363970000105",
+        "name": "M3 GESTAO HOTELEIRA",
+        "partner": "ESTEVES PEDRO COLNAGO",
+        "relation": "Socio Administrador"
+      },
+      {
+        "document": "07692292000110",
+        "name": "NOVA ADMINISTRADORA",
+        "partner": "ESTEVES PEDRO COLNAGO",
+        "relation": "Socio"
+      },
+      {
+        "document": "10911822000188",
+        "name": "NOVA ADMINISTRADORA TERCEIRIZACAO DE MAO-DE-OBRA LTDA",
+        "partner": "ESTEVES PEDRO COLNAGO",
+        "relation": "Socio Administrador"
+      },
+      {
+        "document": "13865643000140",
+        "name": "NOVA COLABORADORA",
+        "partner": "ESTEVES PEDRO COLNAGO",
+        "relation": "Socio"
+      },
+      {
+        "document": "05458880000168",
+        "name": "PAULO AFONSO ROMANO",
+        "partner": "PAULO AFONSO ROMANO",
+        "relation": "Empresario Individual"
+      },
+      {
+        "document": "04532222000106",
+        "name": "PIRACEMA AUTO POSTO LTDA",
+        "partner": "PAULO AFONSO ROMANO"
+      }
+    ]
+  },
+  "metadata": {
+    "user_id": 3358,
+    "org_id": 2,
+    "created_at": "2026-05-12T12:52:42.994Z",
+    "updated_at": "2026-05-12T12:52:42.994Z"
+  }
+}
