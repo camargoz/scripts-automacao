@@ -122,6 +122,24 @@
       "accessCount": 1,
       "lastAccessed": 1779366104598,
       "type": "file"
+    },
+    {
+      "path": "input/get_partners_documentos.json",
+      "accessCount": 1,
+      "lastAccessed": 1779389659677,
+      "type": "file"
+    },
+    {
+      "path": "input/ubo_registration_documentos.json",
+      "accessCount": 1,
+      "lastAccessed": 1779389663420,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1779389705153,
+      "type": "file"
     }
   ],
   "userDirectives": []
