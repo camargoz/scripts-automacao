@@ -1,0 +1,128 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1779363120658,
+  "projectRoot": "/home/camargo/kronoos/scripts-automacao",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "examples"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "examples": {
+      "path": "examples",
+      "purpose": "Example code",
+      "fileCount": 3,
+      "lastAccessed": 1779363120655,
+      "keyFiles": [
+        "business-participation-response.json",
+        "dados-gerais-response.json",
+        "registrarion-response.json"
+      ]
+    },
+    "notebooks": {
+      "path": "notebooks",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1779363120655,
+      "keyFiles": [
+        "erros_registro.txt",
+        "get-partners.ipynb",
+        "relatorio_consolidado.xlsx",
+        "relatorio_ubo.xlsx",
+        "ubo-registration.ipynb"
+      ]
+    },
+    "venv": {
+      "path": "venv",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1779363120655,
+      "keyFiles": [
+        "pyvenv.cfg"
+      ]
+    },
+    "venv/bin": {
+      "path": "venv/bin",
+      "purpose": "Executable scripts",
+      "fileCount": 19,
+      "lastAccessed": 1779363120658,
+      "keyFiles": [
+        "Activate.ps1",
+        "activate",
+        "activate.csh"
+      ]
+    },
+    "venv/lib": {
+      "path": "venv/lib",
+      "purpose": "Library code",
+      "fileCount": 0,
+      "lastAccessed": 1779363120658,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "notebooks/ubo-registration.ipynb",
+      "accessCount": 5,
+      "lastAccessed": 1779366104792,
+      "type": "file"
+    },
+    {
+      "path": "notebooks/processos-por-cpf.ipynb",
+      "accessCount": 5,
+      "lastAccessed": 1779373170189,
+      "type": "file"
+    },
+    {
+      "path": "examples/business-participation-response.json",
+      "accessCount": 3,
+      "lastAccessed": 1778587640175,
+      "type": "file"
+    },
+    {
+      "path": "examples/registrarion-response.json",
+      "accessCount": 2,
+      "lastAccessed": 1778587639934,
+      "type": "file"
+    },
+    {
+      "path": "examples/dados-gerais-response.json",
+      "accessCount": 1,
+      "lastAccessed": 1778590652106,
+      "type": "file"
+    },
+    {
+      "path": "notebooks/get-partners.ipynb",
+      "accessCount": 1,
+      "lastAccessed": 1779366104598,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

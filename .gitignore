@@ -34,5 +34,7 @@ erros_registro.txt
 .DS_Store
 Thumbs.db
 
-# OMC
-.omc/
+# cache
+.cache/
+responses/
+input/

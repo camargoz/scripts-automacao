@@ -1,0 +1,5463 @@
+{
+	"status_code": 1,
+	"message": "Consulta realizada com sucesso.",
+	"data": [
+		{
+			"url_processo": "https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=2074939-09.2026&foroNumeroUnificado=0000&dePesquisaNuUnificado=2074939-09.2026.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_c2c9483ae3784ebbb35dbe09627fe5b3&g-recaptcha-response=",
+			"numero_processo_unico": "20749390920268260000",
+			"juiz": null,
+			"area": "CIVEL",
+			"sistema": "ESAJ-TJSP-2G",
+			"segmento": "JUSTICA ESTADUAL",
+			"tribunal": "TJ-SP",
+			"orgao_julgador": "6ª CAMARA DE DIREITO PUBLICO",
+			"assuntos_cnj": [
+				{
+					"titulo": "DIREITO ADMINISTRATIVO E OUTRAS MATERIAS DE DIREITO PUBLICO",
+					"e_principal": false
+				},
+				{
+					"titulo": "ATOS ADMINISTRATIVOS",
+					"e_principal": false
+				},
+				{
+					"titulo": "IMPROBIDADE ADMINISTRATIVA",
+					"e_principal": true
+				},
+				{
+					"titulo": "VIOLACAO AOS PRINCIPIOS ADMINISTRATIVOS",
+					"e_principal": false
+				}
+			],
+			"data_distribuicao": "2026-03-25T00:00:00",
+			"partes": [
+				{
+					"tipo": "AGRAVANTE",
+					"nome": "RENATA PERRI ANDRADE",
+					"polo": "ATIVO",
+					"cpf": "03214967606",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "RENATA PERRI ANDRADE",
+							"oab": "192813",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-31"
+				},
+				{
+					"tipo": "INTERESSADO",
+					"nome": "ARMANDO ANDRADE",
+					"polo": null,
+					"cpf": "20083491872",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CYNTHIA GODOY ARRUDA",
+							"oab": "180843",
+							"uf": "SP"
+						},
+						{
+							"nome": "PATRICIA GODOY ARRUDA",
+							"oab": "221718",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-31"
+				},
+				{
+					"tipo": "INTERESSADO",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": null,
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LEANDRO PETRIN",
+							"oab": "259441",
+							"uf": "SP"
+						},
+						{
+							"nome": "GUSTAVO CAVALCANTE ZILLI",
+							"oab": "481612",
+							"uf": "SP"
+						},
+						{
+							"nome": "RAFAEL CEZAR DOS SANTOS",
+							"oab": "342475",
+							"uf": "SP"
+						},
+						{
+							"nome": "IZABELLE PAES OMENA DE OLIVEIRA LIMA",
+							"oab": "196272",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-31"
+				},
+				{
+					"tipo": "INTERESSADO",
+					"nome": "ANTONIO CARLOS FENOLIO",
+					"polo": null,
+					"cpf": "03229343891",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-03-31"
+				},
+				{
+					"tipo": "AGRAVADO",
+					"nome": "MUNICIPIO DE TABOAO DA SERRA",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "46523122000163",
+					"cnpj_raiz": "46523122",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LUIZ CARLOS NACIF LAGROTTA",
+							"oab": "123358",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-31"
+				},
+				{
+					"tipo": "INTERESSADA",
+					"nome": "BARBARA PERRI ANDRADE",
+					"polo": null,
+					"cpf": "00313463832",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CYNTHIA GODOY ARRUDA",
+							"oab": "180843",
+							"uf": "SP"
+						},
+						{
+							"nome": "PATRICIA GODOY ARRUDA",
+							"oab": "221718",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-31"
+				}
+			],
+			"total_partes": 6,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 2178283
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2026-03-31T00:00:00",
+					"indice": 10,
+					"nomeOriginal": [
+						"PRAZO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2026-03-31T00:00:00",
+					"indice": 9,
+					"nomeOriginal": [
+						"PRAZO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-03-31T00:00:00",
+					"indice": 8,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-03-31T00:00:00",
+					"indice": 7,
+					"nomeOriginal": [
+						"EXPEDIDO TERMO DE INTIMACAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-03-31T00:00:00",
+					"indice": 6,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": null,
+					"data": "2026-03-27T00:00:00",
+					"indice": 5,
+					"nomeOriginal": [
+						"PROCESSO ENCAMINHADO PARA O PROCESSAMENTO DE GRUPOS E CAMARAS"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "3",
+						"nome": "DECISAO"
+					},
+					"data": "2026-03-27T00:00:00",
+					"indice": 4,
+					"nomeOriginal": [
+						"DESPACHO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "51",
+						"nome": "CONCLUSAO"
+					},
+					"data": "2026-03-25T00:00:00",
+					"indice": 3,
+					"nomeOriginal": [
+						"CONCLUSOS PARA O RELATOR (EXPEDIDO TERMO COM CONCLUSAO)"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "26",
+						"nome": "DISTRIBUICAO"
+					},
+					"data": "2026-03-25T00:00:00",
+					"indice": 2,
+					"nomeOriginal": [
+						"DISTRIBUICAO POR COMPETENCIA EXCLUSIVA"
+					]
+				},
+				{
+					"classificacaoCNJ": null,
+					"data": "2026-03-25T00:00:00",
+					"indice": 1,
+					"nomeOriginal": [
+						"PROCESSO ENCAMINHADO PARA A DISTRIBUICAO DE ORIGINARIOS"
+					]
+				}
+			],
+			"status": "EM TRAMITACAO",
+			"ramo_direito": "DIREITO ADMINISTRATIVO/PUBLICO",
+			"julgamentos": [],
+			"data_arquivamento": null,
+			"data_transito_julgado": null,
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": "DIREITO PUBLICO",
+			"processos_relacionados": [
+				"20749390920268260000",
+				"00096962320168260609",
+				"20262408420268260000"
+			],
+			"classe": {
+				"codigo_cnj": null,
+				"nome": "AGRAVO DE INSTRUMENTO"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2026-03-31T19:58:05.735307173",
+			"numero_processo_antigo": null,
+			"tribunal_origem": null,
+			"valor_execucao": null
+		},
+		{
+			"url_processo": "https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=2026240-84.2026&foroNumeroUnificado=0000&dePesquisaNuUnificado=2026240-84.2026.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_e3cb91b9b2f8458cb7ab857646ddb0ea&g-recaptcha-response=",
+			"numero_processo_unico": "20262408420268260000",
+			"juiz": null,
+			"area": "CIVEL",
+			"sistema": "ESAJ-TJSP-2G",
+			"segmento": "JUSTICA ESTADUAL",
+			"tribunal": "TJ-SP",
+			"orgao_julgador": "6ª CAMARA DE DIREITO PUBLICO",
+			"assuntos_cnj": [
+				{
+					"titulo": "DIREITO ADMINISTRATIVO E OUTRAS MATERIAS DE DIREITO PUBLICO",
+					"e_principal": false
+				},
+				{
+					"titulo": "ATOS ADMINISTRATIVOS",
+					"e_principal": false
+				},
+				{
+					"titulo": "IMPROBIDADE ADMINISTRATIVA",
+					"e_principal": true
+				},
+				{
+					"titulo": "VIOLACAO AOS PRINCIPIOS ADMINISTRATIVOS",
+					"e_principal": false
+				},
+				{
+					"titulo": "VIOLACAO DOS PRINCIPIOS ADMINISTRATIVOS",
+					"e_principal": false
+				}
+			],
+			"data_distribuicao": "2026-02-09T00:00:00",
+			"partes": [
+				{
+					"tipo": "AGRAVANTE",
+					"nome": "BARBARA PERRI ANDRADE",
+					"polo": "ATIVO",
+					"cpf": "00313463832",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CYNTHIA GODOY ARRUDA",
+							"oab": "180843",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "AGRAVANTE",
+					"nome": "ARMANDO ANDRADE",
+					"polo": "ATIVO",
+					"cpf": "20083491872",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CYNTHIA GODOY ARRUDA",
+							"oab": "180843",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "AGRAVADO",
+					"nome": "MUNICIPIO DE TABOAO DA SERRA",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "46523122000163",
+					"cnpj_raiz": "46523122",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LUIZ CARLOS NACIF LAGROTTA",
+							"oab": "123358",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "INTERESSADA",
+					"nome": "RENATA PERRI ANDRADE",
+					"polo": null,
+					"cpf": "03214967606",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "INTERESSADO",
+					"nome": "IRINEU CASEMIRO PEREIRA",
+					"polo": null,
+					"cpf": "03264471809",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ANTONIO JOSE DOS SANTOS",
+							"oab": "91295",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "INTERESSADO",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": null,
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LEANDRO PETRIN",
+							"oab": "259441",
+							"uf": "SP"
+						},
+						{
+							"nome": "GUSTAVO CAVALCANTE ZILLI",
+							"oab": "481612",
+							"uf": "SP"
+						},
+						{
+							"nome": "RAFAEL CEZAR DOS SANTOS",
+							"oab": "342475",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "INTERESSADO",
+					"nome": "ANTONIO CARLOS FENOLIO",
+					"polo": null,
+					"cpf": "03229343891",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "TERCEIRO INTERESSADO",
+					"nome": "OSCAR FERREIRA",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-03-19"
+				}
+			],
+			"total_partes": 8,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 2178283
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-04-22T00:00:00",
+					"indice": 18,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": null,
+					"data": "2026-04-22T00:00:00",
+					"indice": 17,
+					"nomeOriginal": [
+						"PARECER - PRAZO - 30 DIAS"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-04-22T00:00:00",
+					"indice": 16,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-04-22T00:00:00",
+					"indice": 15,
+					"nomeOriginal": [
+						"EXPEDIDO TERMO DE INTIMACAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-04-17T00:00:00",
+					"indice": 14,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": null,
+					"data": "2026-04-15T00:00:00",
+					"indice": 13,
+					"nomeOriginal": [
+						"PROCESSO ENCAMINHADO PARA O PROCESSAMENTO DE GRUPOS E CAMARAS"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "3",
+						"nome": "DECISAO"
+					},
+					"data": "2026-04-15T00:00:00",
+					"indice": 12,
+					"nomeOriginal": [
+						"DESPACHO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "51",
+						"nome": "CONCLUSAO"
+					},
+					"data": "2026-04-07T00:00:00",
+					"indice": 11,
+					"nomeOriginal": [
+						"CONCLUSOS PARA O RELATOR"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "581",
+						"nome": "JUNTADA DE DOCUMENTO"
+					},
+					"data": "2026-04-06T00:00:00",
+					"indice": 10,
+					"nomeOriginal": [
+						"JUNTADA DE PETICAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-04-06T00:00:00",
+					"indice": 9,
+					"nomeOriginal": [
+						"EXPEDIDO TERMO"
+					]
+				}
+			],
+			"status": "EM TRAMITACAO",
+			"ramo_direito": "DIREITO ADMINISTRATIVO/PUBLICO",
+			"julgamentos": [],
+			"data_arquivamento": null,
+			"data_transito_julgado": null,
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": "DIREITO PUBLICO",
+			"processos_relacionados": [
+				"609011992000264",
+				"5011992",
+				"20262408420268260000",
+				"00096962320168260609",
+				"00002642019928260609"
+			],
+			"classe": {
+				"codigo_cnj": null,
+				"nome": "AGRAVO DE INSTRUMENTO"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2026-04-23T01:54:17.042407476",
+			"numero_processo_antigo": null,
+			"tribunal_origem": null,
+			"valor_execucao": null
+		},
+		{
+			"url_processo": "https://esaj.tjsp.jus.br/cpopg/search.do?conversationId=&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=1003733-36.2024&foroNumeroUnificado=0609&dadosConsulta.valorConsultaNuUnificado=1003733-36.2024.8.26.0609&dadosConsulta.valorConsultaNuUnificado=UNIFICADO&dadosConsulta.valorConsulta=&dadosConsulta.tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_bd3b786b7a7c401da2a9f6be7c07d266&g-recaptcha-response=",
+			"numero_processo_unico": "00013584520258260609",
+			"juiz": "MATHEUS BARBOSA PANDINI",
+			"area": "CIVEL",
+			"sistema": "ESAJ-TJSP",
+			"segmento": "JUSTICA ESTADUAL",
+			"tribunal": "TJ-SP",
+			"orgao_julgador": "1ª VARA CIVEL",
+			"assuntos_cnj": [
+				{
+					"titulo": "INTIMACAO",
+					"e_principal": true
+				},
+				{
+					"titulo": "OBJETOS DE CARTAS PRECATORIAS CIVEIS/DE ORDEM",
+					"e_principal": false
+				},
+				{
+					"titulo": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+					"e_principal": false
+				}
+			],
+			"data_distribuicao": "2025-03-26T13:09:00",
+			"partes": [
+				{
+					"tipo": "AGRAVANTE",
+					"nome": "PREFEITURA MUNICIPAL DE TABOAO DA SERRA",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-04-19"
+				},
+				{
+					"tipo": "AGRAVADO",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": "PASSIVO",
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-04-19"
+				},
+				{
+					"tipo": "AGRAVADO",
+					"nome": "WALTER PAULO DE OLIVEIRA",
+					"polo": "PASSIVO",
+					"cpf": "51845059891",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-04-19"
+				},
+				{
+					"tipo": "REU",
+					"nome": "SIDNEY VAZ",
+					"polo": "PASSIVO",
+					"cpf": "08464636873",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-03-20"
+				}
+			],
+			"total_partes": 4,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 0
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "123",
+						"nome": "REMESSA DOS AUTOS"
+					},
+					"data": "2025-04-04T00:00:00",
+					"indice": 12,
+					"nomeOriginal": [
+						"REMETIDA A CARTA PRECATORIA AO CARTORIO DE ORIGEM CUMPRIDA NEGATIVA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "581",
+						"nome": "JUNTADA DE DOCUMENTO"
+					},
+					"data": "2025-04-04T00:00:00",
+					"indice": 11,
+					"nomeOriginal": [
+						"PROTOCOLO JUNTADO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2025-04-04T00:00:00",
+					"indice": 10,
+					"nomeOriginal": [
+						"CERTIDAO DE CARTORIO EXPEDIDA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "106",
+						"nome": "MANDADO DEVOLVIDO"
+					},
+					"data": "2025-04-04T00:00:00",
+					"indice": 9,
+					"nomeOriginal": [
+						"MANDADO DEVOLVIDO CUMPRIDO NEGATIVO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "106",
+						"nome": "MANDADO DEVOLVIDO"
+					},
+					"data": "2025-04-04T00:00:00",
+					"indice": 8,
+					"nomeOriginal": [
+						"MANDADO DEVOLVIDO CUMPRIDO NEGATIVO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2025-03-31T00:00:00",
+					"indice": 7,
+					"nomeOriginal": [
+						"MANDADO EXPEDIDO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2025-03-31T00:00:00",
+					"indice": 6,
+					"nomeOriginal": [
+						"MANDADO EXPEDIDO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "12164",
+						"nome": "OUTRAS DECISOES"
+					},
+					"data": "2025-03-28T00:00:00",
+					"indice": 5,
+					"nomeOriginal": [
+						"PROFERIDAS OUTRAS DECISOES NAO ESPECIFICADAS"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "51",
+						"nome": "CONCLUSAO"
+					},
+					"data": "2025-03-26T00:00:00",
+					"indice": 4,
+					"nomeOriginal": [
+						"CONCLUSOS PARA DESPACHO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "581",
+						"nome": "JUNTADA DE DOCUMENTO"
+					},
+					"data": "2025-03-26T00:00:00",
+					"indice": 3,
+					"nomeOriginal": [
+						"CARTA DE ORDEM JUNTADA"
+					]
+				}
+			],
+			"status": "ARQUIVAMENTO DEFINITIVO",
+			"ramo_direito": "DIREITO CIVIL",
+			"julgamentos": [],
+			"data_arquivamento": null,
+			"data_transito_julgado": null,
+			"instancia": 1,
+			"uf": "SP",
+			"unidade_origem": "FORO DE TABOAO DA SERRA",
+			"processos_relacionados": [
+				"10037333620248260609",
+				"00013584520258260609",
+				"23665295420248260000"
+			],
+			"classe": {
+				"codigo_cnj": "258",
+				"nome": "CARTA DE ORDEM CIVEL"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2026-04-19T07:25:31.779299071",
+			"numero_processo_antigo": null,
+			"tribunal_origem": null,
+			"valor_execucao": null
+		},
+		{
+			"url_processo": "https://esaj.tjsp.jus.br/cposg/search.do?conversationId=&paginaConsulta=0&cbPesquisa=NUMPROC&numeroDigitoAnoUnificado=2366529-54.2024&foroNumeroUnificado=0000&dePesquisaNuUnificado=2366529-54.2024.8.26.0000&dePesquisaNuUnificado=UNIFICADO&dePesquisa=&tipoNuProcesso=UNIFICADO&uuidCaptcha=sajcaptcha_376a11438df5480c869cda243dc5492a&g-recaptcha-response=",
+			"numero_processo_unico": "23665295420248260000",
+			"juiz": null,
+			"area": "CIVEL",
+			"sistema": "ESAJ-TJSP-2G",
+			"segmento": "JUSTICA ESTADUAL",
+			"tribunal": "TJ-SP",
+			"orgao_julgador": "2ª CAMARA DE DIREITO PUBLICO",
+			"assuntos_cnj": [
+				{
+					"titulo": "DIREITO ADMINISTRATIVO E OUTRAS MATERIAS DE DIREITO PUBLICO",
+					"e_principal": false
+				},
+				{
+					"titulo": "ATOS ADMINISTRATIVOS",
+					"e_principal": false
+				},
+				{
+					"titulo": "IMPROBIDADE ADMINISTRATIVA",
+					"e_principal": false
+				},
+				{
+					"titulo": "ENRIQUECIMENTO ILICITO",
+					"e_principal": true
+				}
+			],
+			"data_distribuicao": "2024-11-27T00:00:00",
+			"partes": [
+				{
+					"tipo": "AGRAVANTE",
+					"nome": "MUNICIPIO DE TABOAO DA SERRA",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "46523122000163",
+					"cnpj_raiz": "46523122",
+					"origem_documento": "AGREGADO",
+					"advogados": [
+						{
+							"nome": "LUIZ CARLOS NACIF LAGROTTA",
+							"oab": "123358",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-02-16"
+				},
+				{
+					"tipo": "AGRAVADO",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": "PASSIVO",
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "GUSTAVO CAVALCANTE ZILLI",
+							"oab": "481612",
+							"uf": "SP"
+						},
+						{
+							"nome": "RAFAEL CEZAR DOS SANTOS",
+							"oab": "342475",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-02-16"
+				},
+				{
+					"tipo": "AGRAVADO",
+					"nome": "WALTER PAULO DE OLIVEIRA",
+					"polo": "PASSIVO",
+					"cpf": "51845059891",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-02-16"
+				},
+				{
+					"tipo": "AGRAVADO",
+					"nome": "SIDNEY VAZ",
+					"polo": "PASSIVO",
+					"cpf": "08464636873",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-02-16"
+				}
+			],
+			"total_partes": 4,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 3727877
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": null,
+					"data": "2026-02-10T00:00:00",
+					"indice": 126,
+					"nomeOriginal": [
+						"PROCESSO ENCAMINHADO PARA O MAGISTRADO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-02-10T00:00:00",
+					"indice": 125,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1061",
+						"nome": "DISPONIBILIZACAO NO DIARIO DA JUSTICA ELETRONICO"
+					},
+					"data": "2026-02-09T00:00:00",
+					"indice": 124,
+					"nomeOriginal": [
+						"DISPONIBILIZACAO NO DIARIO DA JUSTICA ELETRONICO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-02-09T00:00:00",
+					"indice": 123,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-01-29T00:00:00",
+					"indice": 122,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": null,
+					"data": "2026-01-29T00:00:00",
+					"indice": 121,
+					"nomeOriginal": [
+						"PRAZO INTIMACAO - 5 DIAS"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "12104",
+						"nome": "INCLUSAO EM PAUTA"
+					},
+					"data": "2026-01-29T00:00:00",
+					"indice": 120,
+					"nomeOriginal": [
+						"INCLUSAO EM PAUTA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2026-01-23T00:00:00",
+					"indice": 119,
+					"nomeOriginal": [
+						"EXPEDIDO CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": null,
+					"data": "2026-01-16T00:00:00",
+					"indice": 118,
+					"nomeOriginal": [
+						"PROCESSO ENCAMINHADO PARA O PROCESSAMENTO DE GRUPOS E CAMARAS - A MESA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "51",
+						"nome": "CONCLUSAO"
+					},
+					"data": "2026-01-14T00:00:00",
+					"indice": 117,
+					"nomeOriginal": [
+						"CONCLUSOS PARA O RELATOR"
+					]
+				}
+			],
+			"status": "EM TRAMITACAO",
+			"ramo_direito": "DIREITO ADMINISTRATIVO/PUBLICO",
+			"julgamentos": [],
+			"data_arquivamento": null,
+			"data_transito_julgado": null,
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": "DIREITO PUBLICO",
+			"processos_relacionados": [
+				"23665295420248260000",
+				"10037333620248260609"
+			],
+			"classe": {
+				"codigo_cnj": null,
+				"nome": "AGRAVO DE INSTRUMENTO"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2026-02-16T04:59:02.695134641",
+			"numero_processo_antigo": null,
+			"tribunal_origem": null,
+			"valor_execucao": null
+		},
+		{
+			"url_processo": "https://portaldeservicos.pdpj.jus.br/consulta",
+			"numero_processo_unico": "06003239720246260416",
+			"juiz": null,
+			"area": null,
+			"sistema": "JUSBR",
+			"segmento": "JUSTICA ELEITORAL",
+			"tribunal": "TRE-SP",
+			"orgao_julgador": "GABINETE DO JURISTA II",
+			"assuntos_cnj": [
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL - BEM PUBLICO",
+					"e_principal": true
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "ELEICOES",
+					"e_principal": false
+				},
+				{
+					"titulo": "DIREITO ELEITORAL",
+					"e_principal": false
+				}
+			],
+			"data_distribuicao": "2024-11-12T17:46:53.527",
+			"partes": [
+				{
+					"tipo": "AUTOR",
+					"nome": "RONALDO ONISHI",
+					"polo": "ATIVO",
+					"cpf": "14609232863",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "OUTROS PARTICIPANTES",
+					"nome": "PROCURADORIA REGIONAL ELEITORAL",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "JOSE LUIZ ELOI",
+					"polo": "ATIVO",
+					"cpf": "05767951861",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 DANIEL PLANA BOGALHO PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56373419000143",
+					"cnpj_raiz": "56373419",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "COLIGACAO UMA NOVA ESPERANCA PRA TABOAO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 ERICA TEIXEIRA FRANQUINI VICE-PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56372616000148",
+					"cnpj_raiz": "56372616",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 EDISON FERREIRA DO NASCIMENTO JUNIOR VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56450298000196",
+					"cnpj_raiz": "56450298",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 ADAO REINALDO PEREIRA DA SILVA VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56403273000131",
+					"cnpj_raiz": "56403273",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 ERMSON DOS SANTOS OLIVEIRA VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56373183000145",
+					"cnpj_raiz": "56373183",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 ALCIDES PEREIRA DA SILVA JR VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56448184000101",
+					"cnpj_raiz": "56448184",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 JOSE LUIZ ELOI VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56448037000131",
+					"cnpj_raiz": "56448037",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 RONALDO ONISHI VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56450297000141",
+					"cnpj_raiz": "56450297",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 AIRON GLEICK MASCARENHAS DA SILVA VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56445560000104",
+					"cnpj_raiz": "56445560",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JUNTOS PRA SEGUIR MUDANDO TABOAO [PODE / PDT / PL / PSB / PSD / AVANTE / FEDERACAO BRASIL DA ESPERANCA - FE BRASIL(PT/PC DO B/PV)] - TABOAO DA SERRA - SP",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ADAO REINALDO PEREIRA DA SILVA",
+					"polo": "ATIVO",
+					"cpf": "20001601822",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "AIRON GLEICK MASCARENHAS DA SILVA",
+					"polo": "ATIVO",
+					"cpf": "01091127506",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ALCIDES PEREIRA DA SILVA JR",
+					"polo": "ATIVO",
+					"cpf": "06121549807",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "UMA NOVA ESPERANCA PARA TABOAO [UNIAO / REPUBLICANOS / SOLIDARIEDADE / MDB / PP / PRTB / AGIR] - TABOAO DA SERRA - SP",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "DANIEL PLANA BOGALHO",
+					"polo": "ATIVO",
+					"cpf": "32698512865",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ERICA TEIXEIRA FRANQUINI",
+					"polo": "ATIVO",
+					"cpf": "21457919818",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ERMSON DOS SANTOS OLIVEIRA",
+					"polo": "ATIVO",
+					"cpf": "29688497860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "FRANCISCO MARCOS IRAN AQUINO ROLIM",
+					"polo": "ATIVO",
+					"cpf": "71046704320",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 FRANCISCO MARCOS IRAN AQUINO ROLIM VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56454780000102",
+					"cnpj_raiz": "56454780",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "REU",
+					"nome": "COLIGACAO JUNTOS PRA SEGUIR MUDANDO TABOAO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JOSE APRIGIO DA SILVA",
+					"polo": "PASSIVO",
+					"cpf": "53431812872",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 JOSE APRIGIO DA SILVA PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56497737000116",
+					"cnpj_raiz": "56497737",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 CARLOS EDUARDO NOBREGA VICE-PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56469583000159",
+					"cnpj_raiz": "56469583",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "REU",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": "PASSIVO",
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "REU",
+					"nome": "CARLOS EDUARDO NOBREGA",
+					"polo": "PASSIVO",
+					"cpf": "25429171832",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-11-16"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 EDISON FERREIRA DO NASCIMENTO JUNIOR VEREADOR",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56450298000196",
+					"cnpj_raiz": "56450298",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "COLIGACAO JUNTOS PRA SEGUIR MUDANDO TABOAO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 ADAO REINALDO PEREIRA DA SILVA VEREADOR",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56403273000131",
+					"cnpj_raiz": "56403273",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 CARLOS EDUARDO NOBREGA VICE-PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56469583000159",
+					"cnpj_raiz": "56469583",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 FRANCISCO MARCOS IRAN AQUINO ROLIM VEREADOR",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56454780000102",
+					"cnpj_raiz": "56454780",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 DANIEL PLANA BOGALHO PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56373419000143",
+					"cnpj_raiz": "56373419",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 JOSE APRIGIO DA SILVA PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56497737000116",
+					"cnpj_raiz": "56497737",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 ALCIDES PEREIRA DA SILVA JR VEREADOR",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56448184000101",
+					"cnpj_raiz": "56448184",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "COLIGACAO UMA NOVA ESPERANCA PRA TABOAO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 JOSE LUIZ ELOI VEREADOR",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56448037000131",
+					"cnpj_raiz": "56448037",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 ERICA TEIXEIRA FRANQUINI VICE-PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56372616000148",
+					"cnpj_raiz": "56372616",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 RONALDO ONISHI VEREADOR",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56450297000141",
+					"cnpj_raiz": "56450297",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 AIRON GLEICK MASCARENHAS DA SILVA VEREADOR",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56445560000104",
+					"cnpj_raiz": "56445560",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 ERMSON DOS SANTOS OLIVEIRA VEREADOR",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56373183000145",
+					"cnpj_raiz": "56373183",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-04-29"
+				}
+			],
+			"total_partes": 43,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 0
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "22",
+						"nome": "BAIXA DEFINITIVA"
+					},
+					"data": "2025-05-27T12:39:22.422",
+					"indice": 50,
+					"nomeOriginal": [
+						"BAIXA DEFINITIVA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "848",
+						"nome": "TRANSITO EM JULGADO"
+					},
+					"data": "2025-05-27T12:36:36.635",
+					"indice": 49,
+					"nomeOriginal": [
+						"TRANSITADO EM JULGADO EM 26/05/2025"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-05-27T02:31:20.789",
+					"indice": 48,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE JUNTOS PRA SEGUIR MUDANDO TABOAO [PODE / PDT / PL / PSB / PSD / AVANTE / FEDERACAO BRASIL DA ESPERANCA - FE BRASIL(PT/PC DO B/PV)] - TABOAO DA SERRA - SP EM 26/05/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-05-27T02:31:20.45",
+					"indice": 47,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE JOSE LUIZ ELOI EM 26/05/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-05-27T02:31:20.096",
+					"indice": 46,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE DANIEL PLANA BOGALHO EM 26/05/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-05-27T02:31:19.716",
+					"indice": 45,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE UMA NOVA ESPERANCA PARA TABOAO [UNIAO / REPUBLICANOS / SOLIDARIEDADE / MDB / PP / PRTB / AGIR] - TABOAO DA SERRA - SP EM 26/05/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-05-27T02:31:19.358",
+					"indice": 44,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE JOSE APRIGIO DA SILVA EM 26/05/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-05-27T02:31:18.964",
+					"indice": 43,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE FERNANDO FERNANDES FILHO EM 26/05/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-05-27T02:31:18.567",
+					"indice": 42,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE CARLOS EDUARDO NOBREGA EM 26/05/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-05-27T02:31:18.056",
+					"indice": 41,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE ERICA TEIXEIRA FRANQUINI EM 26/05/2025 23:59."
+					]
+				}
+			],
+			"status": "ARQUIVAMENTO DEFINITIVO",
+			"ramo_direito": "DIREITO ELEITORAL",
+			"julgamentos": [
+				{
+					"data": "2025-05-20T16:42:04.084",
+					"status": "PROVIMENTO EM PARTE",
+					"diasAteJulgamento": 188,
+					"tipo": "PARCIALMENTE PROCEDENTE"
+				}
+			],
+			"data_arquivamento": "2025-05-27T12:39:22.422",
+			"data_transito_julgado": "2025-05-27T12:36:36.635",
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": null,
+			"processos_relacionados": [
+				"06003801820246260416"
+			],
+			"classe": {
+				"codigo_cnj": "11548",
+				"nome": "RECURSO ELEITORAL"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2025-11-16T09:15:28.370374241",
+			"numero_processo_antigo": null,
+			"tribunal_origem": null,
+			"valor_execucao": null
+		},
+		{
+			"url_processo": "https://portaldeservicos.pdpj.jus.br/consulta",
+			"numero_processo_unico": "06003992420246260416",
+			"juiz": null,
+			"area": null,
+			"sistema": "JUSBR",
+			"segmento": "JUSTICA ELEITORAL",
+			"tribunal": "TRE-SP",
+			"orgao_julgador": "GABINETE DO DESEMBARGADOR DO TRIBUNAL REGIONAL FEDERAL",
+			"assuntos_cnj": [
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL - BANNER/CARTAZ/FAIXA",
+					"e_principal": true
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "ELEICOES",
+					"e_principal": false
+				},
+				{
+					"titulo": "DIREITO ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL - BEM PUBLICO",
+					"e_principal": false
+				}
+			],
+			"data_distribuicao": "2024-11-06T17:04:29.288",
+			"partes": [
+				{
+					"tipo": "AUTOR",
+					"nome": "MINISTERIO PUBLICO DO ESTADO DE SAO PAULO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "01468760000190",
+					"cnpj_raiz": "01468760",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 FERNANDO FERNANDES FILHO PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56563632000118",
+					"cnpj_raiz": "56563632",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "REU",
+					"nome": "PROMOTOR ELEITORAL DO ESTADO DE SAO PAULO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 CARLOS EDUARDO NOBREGA VICE-PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56469583000159",
+					"cnpj_raiz": "56469583",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 ERICA TEIXEIRA FRANQUINI VICE-PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56372616000148",
+					"cnpj_raiz": "56372616",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "REU",
+					"nome": "MINISTERIO PUBLICO ELEITORAL",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": "ATIVO",
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "CARLOS EDUARDO NOBREGA",
+					"polo": "ATIVO",
+					"cpf": "25429171832",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "DANIEL PLANA BOGALHO",
+					"polo": "ATIVO",
+					"cpf": "32698512865",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ERICA TEIXEIRA FRANQUINI",
+					"polo": "ATIVO",
+					"cpf": "21457919818",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "JOSE APRIGIO DA SILVA",
+					"polo": "ATIVO",
+					"cpf": "53431812872",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 JOSE APRIGIO DA SILVA PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56497737000116",
+					"cnpj_raiz": "56497737",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 DANIEL PLANA BOGALHO PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56373419000143",
+					"cnpj_raiz": "56373419",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "OUTROS PARTICIPANTES",
+					"nome": "PROCURADORIA REGIONAL ELEITORAL",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-04-10"
+				},
+				{
+					"tipo": "TERCEIRO INTERESSADO",
+					"nome": "PROCURADORIA REGIONAL ELEITORAL",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-02-22"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "PROMOTOR ELEITORAL DO ESTADO DE SAO PAULO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-02-22"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 CARLOS EDUARDO NOBREGA VICE-PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56469583000159",
+					"cnpj_raiz": "56469583",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-02-22"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 DANIEL PLANA BOGALHO PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56373419000143",
+					"cnpj_raiz": "56373419",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-02-22"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 ERICA TEIXEIRA FRANQUINI VICE-PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56372616000148",
+					"cnpj_raiz": "56372616",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-02-22"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 FERNANDO FERNANDES FILHO PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56563632000118",
+					"cnpj_raiz": "56563632",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-02-22"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 JOSE APRIGIO DA SILVA PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56497737000116",
+					"cnpj_raiz": "56497737",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-02-22"
+				}
+			],
+			"total_partes": 21,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 0
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "22",
+						"nome": "BAIXA DEFINITIVA"
+					},
+					"data": "2024-12-17T18:58:09.053",
+					"indice": 28,
+					"nomeOriginal": [
+						"BAIXA DEFINITIVA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "848",
+						"nome": "TRANSITO EM JULGADO"
+					},
+					"data": "2024-12-17T18:54:20.882",
+					"indice": 27,
+					"nomeOriginal": [
+						"TRANSITADO EM JULGADO EM 16/12/2024"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:33.421",
+					"indice": 26,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE PROCURADORIA REGIONAL ELEITORAL EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:33.145",
+					"indice": 25,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE MINISTERIO PUBLICO ELEITORAL EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:32.832",
+					"indice": 24,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE ERICA TEIXEIRA FRANQUINI EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:32.55",
+					"indice": 23,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE DANIEL PLANA BOGALHO EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:32.176",
+					"indice": 22,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE FERNANDO FERNANDES FILHO EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "67",
+						"nome": "JUNTADA"
+					},
+					"data": "2024-12-13T20:11:46.253",
+					"indice": 21,
+					"nomeOriginal": [
+						"JUNTADA DE CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "92",
+						"nome": "PUBLICACAO"
+					},
+					"data": "2024-12-13T19:46:49.074",
+					"indice": 20,
+					"nomeOriginal": [
+						"PUBLICADO ACORDAO SESSAO EM 13/12/2024."
+					]
+				},
+				{
+					"classificacaoCNJ": null,
+					"data": "2024-12-13T18:28:00.037",
+					"indice": 19,
+					"nomeOriginal": [
+						"CONHECIDO O RECURSO DE DANIEL PLANA BOGALHO, ERICA TEIXEIRA FRANQUINI E FERNANDO FERNANDES FILHO E PROVIDO EM PARTE"
+					]
+				}
+			],
+			"status": "ARQUIVAMENTO DEFINITIVO",
+			"ramo_direito": "DIREITO ELEITORAL",
+			"julgamentos": [
+				{
+					"data": "2024-12-13T18:28:00.037",
+					"status": "PROVIMENTO EM PARTE",
+					"diasAteJulgamento": 37,
+					"tipo": "PARCIALMENTE PROCEDENTE"
+				}
+			],
+			"data_arquivamento": "2024-12-17T18:58:09.053",
+			"data_transito_julgado": "2024-12-17T18:54:20.882",
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": null,
+			"processos_relacionados": [
+				"06000658720246260416",
+				"06000667220246260416",
+				"06003914720246260416",
+				"06000598020246260416",
+				"06000719420246260416",
+				"06003871020246260416",
+				"06002961720246260416",
+				"06003940220246260416",
+				"06000632020246260416",
+				"06002953220246260416",
+				"06003828520246260416",
+				"06000684220246260416",
+				"06003248220246260416",
+				"06003889220246260416",
+				"06000640520246260416",
+				"06000744920246260416",
+				"06003862520246260416",
+				"06003239720246260416"
+			],
+			"classe": {
+				"codigo_cnj": "11548",
+				"nome": "RECURSO ELEITORAL"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2026-04-10T21:49:31.257219194",
+			"numero_processo_antigo": null,
+			"tribunal_origem": null,
+			"valor_execucao": 21000
+		},
+		{
+			"url_processo": "https://consultaunificadapje.tse.jus.br/#/public/resultado/0600326-52.2024.6.26.0416",
+			"numero_processo_unico": "06003265220246260416",
+			"juiz": null,
+			"area": null,
+			"sistema": "UNIFICADO-TSE",
+			"segmento": "JUSTICA ELEITORAL",
+			"tribunal": "TRE-SP",
+			"orgao_julgador": "GABINETE DO DESEMBARGADOR DO TRIBUNAL DE JUSTICA",
+			"assuntos_cnj": [
+				{
+					"titulo": "DIREITO ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "ELEICOES",
+					"e_principal": false
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL - OUTDOORS",
+					"e_principal": true
+				}
+			],
+			"data_distribuicao": "2024-10-16T13:08:42.106",
+			"partes": [
+				{
+					"tipo": "AUTOR",
+					"nome": "DANIEL PLANA BOGALHO",
+					"polo": "ATIVO",
+					"cpf": "32698512865",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "CATALOGO",
+					"advogados": [
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-12"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ERICA TEIXEIRA FRANQUINI",
+					"polo": "ATIVO",
+					"cpf": "21457919818",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "CATALOGO",
+					"advogados": [
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-12"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "MARCOS PAULO DE OLIVEIRA",
+					"polo": "ATIVO",
+					"cpf": "22035208840",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "CATALOGO",
+					"advogados": [
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-12"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "UMA NOVA ESPERANCA PARA TABOAO [UNIAO / REPUBLICANOS / SOLIDARIEDADE / MDB / PP / PRTB / AGIR] - TABOAO DA SERRA - SP",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-12"
+				},
+				{
+					"tipo": "REU",
+					"nome": "CARLOS EDUARDO NOBREGA",
+					"polo": "PASSIVO",
+					"cpf": "25429171832",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "CATALOGO",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-12"
+				},
+				{
+					"tipo": "REU",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": "PASSIVO",
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "CATALOGO",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-12"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JOSE APRIGIO DA SILVA",
+					"polo": "PASSIVO",
+					"cpf": "53431812872",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "CATALOGO",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-12"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JUNTOS PRA SEGUIR MUDANDO TABOAO [PODE / PDT / PL / PSB / PSD / AVANTE / FEDERACAO BRASIL DA ESPERANCA - FE BRASIL(PT/PC DO B/PV)] - TABOAO DA SERRA - SP",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-12"
+				},
+				{
+					"tipo": "TERCEIRO INTERESSADO",
+					"nome": "PROCURADORIA REGIONAL ELEITORAL",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2025-03-12"
+				}
+			],
+			"total_partes": 9,
+			"valor_causa": {
+				"moeda": null,
+				"valor": null
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "22",
+						"nome": "BAIXA DEFINITIVA"
+					},
+					"data": "2024-12-17T18:14:27.673",
+					"indice": 39,
+					"nomeOriginal": [
+						"BAIXA DEFINITIVA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "848",
+						"nome": "TRANSITO EM JULGADO"
+					},
+					"data": "2024-12-17T15:21:52.963",
+					"indice": 38,
+					"nomeOriginal": [
+						"TRANSITADO EM JULGADO EM 16/12/2024"
+					]
+				},
+				{
+					"classificacaoCNJ": null,
+					"data": "2024-12-17T15:21:52.546",
+					"indice": 37,
+					"nomeOriginal": [
+						"CERTIDAO DE TRANSITO EM JULGADO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:50.024",
+					"indice": 36,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE FERNANDO FERNANDES FILHO EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:49.416",
+					"indice": 35,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE CARLOS EDUARDO NOBREGA EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:48.874",
+					"indice": 34,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE JOSE APRIGIO DA SILVA EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:48.352",
+					"indice": 33,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE JUNTOS PRA SEGUIR MUDANDO TABOAO [PODE / PDT / PL / PSB / PSD / AVANTE / FEDERACAO BRASIL DA ESPERANCA - FE BRASIL(PT/PC DO B/PV)] - TABOAO DA SERRA - SP EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:47.842",
+					"indice": 32,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE MARCOS PAULO DE OLIVEIRA EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:47.273",
+					"indice": 31,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE ERICA TEIXEIRA FRANQUINI EM 16/12/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-12-17T02:33:46.72",
+					"indice": 30,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE DANIEL PLANA BOGALHO EM 16/12/2024 23:59."
+					]
+				}
+			],
+			"status": "ARQUIVAMENTO DEFINITIVO",
+			"ramo_direito": "DIREITO ELEITORAL",
+			"julgamentos": [
+				{
+					"data": "2024-12-13T17:24:25.839",
+					"status": "PROVIMENTO",
+					"diasAteJulgamento": 58,
+					"tipo": "PROCEDENTE"
+				}
+			],
+			"data_arquivamento": "2024-12-17T18:14:27.673",
+			"data_transito_julgado": "2024-12-17T15:21:52.963",
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": null,
+			"processos_relacionados": [],
+			"classe": {
+				"codigo_cnj": "11548",
+				"nome": "RECURSO ELEITORAL"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2025-03-12T07:52:38.529783",
+			"numero_processo_antigo": null,
+			"tribunal_origem": "TRE-SP",
+			"valor_execucao": null
+		},
+		{
+			"url_processo": "https://portaldeservicos.pdpj.jus.br/consulta",
+			"numero_processo_unico": "06000623520246260416",
+			"juiz": null,
+			"area": null,
+			"sistema": "JUSBR",
+			"segmento": "JUSTICA ELEITORAL",
+			"tribunal": "TRE-SP",
+			"orgao_julgador": "GABINETE DO DESEMBARGADOR DO TRIBUNAL DE JUSTICA",
+			"assuntos_cnj": [
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL - OUTDOORS",
+					"e_principal": true
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "ELEICOES",
+					"e_principal": false
+				},
+				{
+					"titulo": "DIREITO ELEITORAL",
+					"e_principal": false
+				}
+			],
+			"data_distribuicao": "2024-10-10T14:24:14.691",
+			"partes": [
+				{
+					"tipo": "REU",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": "PASSIVO",
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "UMA NOVA ESPERANCA PARA TABOAO [UNIAO / REPUBLICANOS / SOLIDARIEDADE / MDB / PP / PRTB / AGIR] - TABOAO DA SERRA - SP",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 DANIEL PLANA BOGALHO PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56373419000143",
+					"cnpj_raiz": "56373419",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "DANIEL PLANA BOGALHO",
+					"polo": "ATIVO",
+					"cpf": "32698512865",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 ERICA TEIXEIRA FRANQUINI VICE-PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56372616000148",
+					"cnpj_raiz": "56372616",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ERICA TEIXEIRA FRANQUINI",
+					"polo": "ATIVO",
+					"cpf": "21457919818",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "OUTROS PARTICIPANTES",
+					"nome": "PROCURADORIA REGIONAL ELEITORAL",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-04-23"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 FERNANDO FERNANDES FILHO PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56563632000118",
+					"cnpj_raiz": "56563632",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-04-23"
+				}
+			],
+			"total_partes": 8,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 0
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "22",
+						"nome": "BAIXA DEFINITIVA"
+					},
+					"data": "2024-10-24T17:41:10.32",
+					"indice": 27,
+					"nomeOriginal": [
+						"BAIXA DEFINITIVA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "848",
+						"nome": "TRANSITO EM JULGADO"
+					},
+					"data": "2024-10-24T14:49:43.282",
+					"indice": 26,
+					"nomeOriginal": [
+						"TRANSITADO EM JULGADO EM 23/10/2024"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-10-24T02:30:46.089",
+					"indice": 25,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE DANIEL PLANA BOGALHO EM 23/10/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-10-24T02:30:45.786",
+					"indice": 24,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE FERNANDO FERNANDES FILHO EM 23/10/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2024-10-24T02:30:45.343",
+					"indice": 23,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE ERICA TEIXEIRA FRANQUINI EM 23/10/2024 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "85",
+						"nome": "JUNTADA DE PETICAO"
+					},
+					"data": "2024-10-22T17:55:39.201",
+					"indice": 22,
+					"nomeOriginal": [
+						"JUNTADA DE PETICAO DE CIENCIA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "67",
+						"nome": "JUNTADA"
+					},
+					"data": "2024-10-22T15:02:35.726",
+					"indice": 21,
+					"nomeOriginal": [
+						"JUNTADA DE CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2024-10-22T14:59:38.109",
+					"indice": 20,
+					"nomeOriginal": [
+						"EXPEDICAO DE OUTROS DOCUMENTOS."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "92",
+						"nome": "PUBLICACAO"
+					},
+					"data": "2024-10-22T14:59:37.782",
+					"indice": 19,
+					"nomeOriginal": [
+						"PUBLICADO INTIMACAO MURAL EM 22/10/2024 14:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2024-10-22T14:59:37.191",
+					"indice": 18,
+					"nomeOriginal": [
+						"EXPEDICAO DE OUTROS DOCUMENTOS."
+					]
+				}
+			],
+			"status": "ARQUIVAMENTO DEFINITIVO",
+			"ramo_direito": "DIREITO ELEITORAL",
+			"julgamentos": [
+				{
+					"data": "2024-10-21T19:22:15.675",
+					"status": "NAO CONHECIMENTO DE RECURSO",
+					"diasAteJulgamento": 11,
+					"tipo": "IMPROCEDENTE"
+				}
+			],
+			"data_arquivamento": "2024-10-24T17:41:10.32",
+			"data_transito_julgado": "2024-10-24T14:49:43.282",
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": null,
+			"processos_relacionados": [
+				"06000606520246260416"
+			],
+			"classe": {
+				"codigo_cnj": "11548",
+				"nome": "RECURSO ELEITORAL"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2026-04-23T19:33:15.927495196",
+			"numero_processo_antigo": null,
+			"tribunal_origem": null,
+			"valor_execucao": null
+		},
+		{
+			"url_processo": "https://consultaunificadapje.tse.jus.br/#/public/resultado/0600083-11.2024.6.26.0416",
+			"numero_processo_unico": "06000831120246260416",
+			"juiz": null,
+			"area": null,
+			"sistema": "UNIFICADO-TSE",
+			"segmento": "JUSTICA ELEITORAL",
+			"tribunal": "TRE-SP",
+			"orgao_julgador": "GABINETE DO JURISTA II",
+			"assuntos_cnj": [
+				{
+					"titulo": "DIREITO ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "ELEICOES",
+					"e_principal": false
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL - OUTDOORS",
+					"e_principal": true
+				}
+			],
+			"data_distribuicao": "2024-10-10T11:41:43.4",
+			"partes": [
+				{
+					"tipo": "AUTOR",
+					"nome": "DANIEL PLANA BOGALHO",
+					"polo": "ATIVO",
+					"cpf": "32698512865",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ERICA TEIXEIRA FRANQUINI",
+					"polo": "ATIVO",
+					"cpf": "21457919818",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "JEREMIAS CAJA VASCONCELOS",
+					"polo": "ATIVO",
+					"cpf": "26901284896",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "UMA NOVA ESPERANCA PARA TABOAO [UNIAO / REPUBLICANOS / SOLIDARIEDADE / MDB / PP / PRTB / AGIR] - TABOAO DA SERRA - SP",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "REU",
+					"nome": "CARLOS EDUARDO NOBREGA",
+					"polo": "PASSIVO",
+					"cpf": "25429171832",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "REU",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": "PASSIVO",
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JOSE APRIGIO DA SILVA",
+					"polo": "PASSIVO",
+					"cpf": "53431812872",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JUNTOS PRA SEGUIR MUDANDO TABOAO [PODE / PDT / PL / PSB / PSD / AVANTE / FEDERACAO BRASIL DA ESPERANCA - FE BRASIL(PT/PC DO B/PV)] - TABOAO DA SERRA - SP",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "TERCEIRO INTERESSADO",
+					"nome": "PROCURADORIA REGIONAL ELEITORAL",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2024-11-01"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 FERNANDO FERNANDES FILHO PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56563632000118",
+					"cnpj_raiz": "56563632",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-02-22"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 JEREMIAS CAJA VASCONCELOS VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56516288000106",
+					"cnpj_raiz": "56516288",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-02-22"
+				}
+			],
+			"total_partes": 11,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 0
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": null,
+					"data": "2024-10-25T17:33:26.338",
+					"indice": 18,
+					"nomeOriginal": [
+						"RECEBIDOS OS AUTOS"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "51",
+						"nome": "CONCLUSAO"
+					},
+					"data": "2024-10-25T17:33:25.555",
+					"indice": 17,
+					"nomeOriginal": [
+						"CONCLUSOS PARA DECISAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "123",
+						"nome": "REMESSA"
+					},
+					"data": "2024-10-25T17:33:25.334",
+					"indice": 16,
+					"nomeOriginal": [
+						"REMETIDOS OS AUTOS (OUTROS MOTIVOS) PARA GABINETE DO JURISTA II"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "85",
+						"nome": "PETICAO"
+					},
+					"data": "2024-10-25T17:13:54.65",
+					"indice": 15,
+					"nomeOriginal": [
+						"JUNTADA DE PETICAO DE PARECER DA PROCURADORIA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "60",
+						"nome": "EXPEDICAO DE DOCUMENTO"
+					},
+					"data": "2024-10-24T17:52:16.405",
+					"indice": 14,
+					"nomeOriginal": [
+						"EXPEDICAO DE OUTROS DOCUMENTOS."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "12263",
+						"nome": "INTIMACAO"
+					},
+					"data": "2024-10-24T17:52:15.773",
+					"indice": 13,
+					"nomeOriginal": [
+						"INTIMACAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "67",
+						"nome": "JUNTADA"
+					},
+					"data": "2024-10-24T15:25:04.884",
+					"indice": 12,
+					"nomeOriginal": [
+						"JUNTADA DE CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "36",
+						"nome": "REDISTRIBUICAO"
+					},
+					"data": "2024-10-10T14:07:40.978",
+					"indice": 11,
+					"nomeOriginal": [
+						"REDISTRIBUIDO POR PREVENCAO EM RAZAO DE MODIFICACAO DA COMPETENCIA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "67",
+						"nome": "JUNTADA"
+					},
+					"data": "2024-10-10T14:06:35.872",
+					"indice": 10,
+					"nomeOriginal": [
+						"JUNTADA DE CERTIDAO"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "67",
+						"nome": "JUNTADA"
+					},
+					"data": "2024-10-10T12:08:03.961",
+					"indice": 9,
+					"nomeOriginal": [
+						"JUNTADA DE OUTROS DOCUMENTOS"
+					]
+				}
+			],
+			"status": "EM TRAMITACAO",
+			"ramo_direito": "DIREITO ELEITORAL",
+			"julgamentos": [],
+			"data_arquivamento": null,
+			"data_transito_julgado": null,
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": null,
+			"processos_relacionados": [],
+			"classe": {
+				"codigo_cnj": "11548",
+				"nome": "RECURSO ELEITORAL"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2024-11-01T23:34:09.432531",
+			"numero_processo_antigo": null,
+			"tribunal_origem": "TRE-SP",
+			"valor_execucao": null
+		},
+		{
+			"url_processo": "https://portaldeservicos.pdpj.jus.br/consulta",
+			"numero_processo_unico": "06000822620246260416",
+			"juiz": null,
+			"area": null,
+			"sistema": "JUSBR",
+			"segmento": "JUSTICA ELEITORAL",
+			"tribunal": "TRE-SP",
+			"orgao_julgador": "GABINETE DO JURISTA II",
+			"assuntos_cnj": [
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL - OUTDOORS",
+					"e_principal": true
+				},
+				{
+					"titulo": "PROPAGANDA POLITICA - PROPAGANDA ELEITORAL",
+					"e_principal": false
+				},
+				{
+					"titulo": "ELEICOES",
+					"e_principal": false
+				},
+				{
+					"titulo": "DIREITO ELEITORAL",
+					"e_principal": false
+				}
+			],
+			"data_distribuicao": "2024-10-09T12:59:06.18",
+			"partes": [
+				{
+					"tipo": "OUTROS PARTICIPANTES",
+					"nome": "PROCURADORIA REGIONAL ELEITORAL",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 JOSE APRIGIO DA SILVA PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56497737000116",
+					"cnpj_raiz": "56497737",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "REU",
+					"nome": "ELEICAO 2024 CARLOS EDUARDO NOBREGA VICE-PREFEITO",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": "56469583000159",
+					"cnpj_raiz": "56469583",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JUNTOS PRA SEGUIR MUDANDO TABOAO [PODE / PDT / PL / PSB / PSD / AVANTE / FEDERACAO BRASIL DA ESPERANCA - FE BRASIL(PT/PC DO B/PV)] - TABOAO DA SERRA - SP",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ERICA TEIXEIRA FRANQUINI",
+					"polo": "ATIVO",
+					"cpf": "21457919818",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "REU",
+					"nome": "FERNANDO FERNANDES FILHO",
+					"polo": "PASSIVO",
+					"cpf": "00107100860",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+							"oab": "182245",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "JEREMIAS CAJA VASCONCELOS",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 DANIEL PLANA BOGALHO PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56373419000143",
+					"cnpj_raiz": "56373419",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 ERICA TEIXEIRA FRANQUINI VICE-PREFEITO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56372616000148",
+					"cnpj_raiz": "56372616",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JOSE APRIGIO DA SILVA",
+					"polo": "PASSIVO",
+					"cpf": "53431812872",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "ELEICAO 2024 JEREMIAS CAJA VASCONCELOS VEREADOR",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": "56516288000106",
+					"cnpj_raiz": "56516288",
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "DANIEL PLANA BOGALHO",
+					"polo": "ATIVO",
+					"cpf": "32698512865",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "COLIGACAO UMA NOVA ESPERANCA PARA TABOAO",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "REU",
+					"nome": "CESAR AUGUSTO RODRIGUES CERDEIRA",
+					"polo": "PASSIVO",
+					"cpf": "20533327865",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "AUTOR",
+					"nome": "UMA NOVA ESPERANCA PARA TABOAO [UNIAO / REPUBLICANOS / SOLIDARIEDADE / MDB / PP / PRTB / AGIR] - TABOAO DA SERRA - SP",
+					"polo": "ATIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "JOHNNY ROCHA DO CARMO",
+							"oab": "418319",
+							"uf": "SP"
+						},
+						{
+							"nome": "JOEL DE MATOS PEREIRA",
+							"oab": "256729",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA KAR ROSCIGNO PINTO",
+							"oab": "454665",
+							"uf": "SP"
+						},
+						{
+							"nome": "BRUNA RUIZ DE CAMPOS GOMES DOS SANTOS",
+							"oab": "418368",
+							"uf": "SP"
+						},
+						{
+							"nome": "MATEUS NAVARRO BARBOSA ALLE",
+							"oab": "500755",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA MASSAD DE AGUIAR FABRETTI",
+							"oab": "261232",
+							"uf": "SP"
+						},
+						{
+							"nome": "LUIZA GOMIDE TOMAZ",
+							"oab": "511716",
+							"uf": "SP"
+						},
+						{
+							"nome": "HIAGO ASSAF ALVES",
+							"oab": "481849",
+							"uf": "SP"
+						},
+						{
+							"nome": "FERNANDA VALONE ESTEVES",
+							"oab": "103369",
+							"uf": "PR"
+						},
+						{
+							"nome": "GLAUCIA CAROLINA DOS SANTOS",
+							"oab": "259550",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "REU",
+					"nome": "CARLOS EDUARDO NOBREGA",
+					"polo": "PASSIVO",
+					"cpf": "25429171832",
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": "TRIBUNAL",
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2026-03-19"
+				},
+				{
+					"tipo": "TERCEIRO INTERESSADO",
+					"nome": "PROCURADORIA REGIONAL ELEITORAL",
+					"polo": null,
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [],
+					"data_atualizacao": "2025-03-11"
+				},
+				{
+					"tipo": "REU",
+					"nome": "JUNTOS PRA SEGUIR MUDANDO TABOAO [PODE / PDT / PL / PSB / PSB / AVANTE / FEDERACAO BRASIL DA ESPERANCA - FE BRASIL (PT / PC DO B / PV)] - TABOAO DA SERRA - SP",
+					"polo": "PASSIVO",
+					"cpf": null,
+					"cnpj": null,
+					"cnpj_raiz": null,
+					"origem_documento": null,
+					"advogados": [
+						{
+							"nome": "ALLAN MOHAMED MELO HASSAN",
+							"oab": "346606",
+							"uf": "SP"
+						}
+					],
+					"data_atualizacao": "2025-03-11"
+				}
+			],
+			"total_partes": 18,
+			"valor_causa": {
+				"moeda": "R$",
+				"valor": 0
+			},
+			"movimentos": [
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "22",
+						"nome": "BAIXA DEFINITIVA"
+					},
+					"data": "2025-02-17T14:19:05.643",
+					"indice": 40,
+					"nomeOriginal": [
+						"BAIXA DEFINITIVA"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "848",
+						"nome": "TRANSITO EM JULGADO"
+					},
+					"data": "2025-02-17T13:50:17.908",
+					"indice": 39,
+					"nomeOriginal": [
+						"TRANSITADO EM JULGADO EM 14/02/2025"
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-02-15T02:30:43.144",
+					"indice": 38,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE JUNTOS PRA SEGUIR MUDANDO TABOAO [PODE / PDT / PL / PSB / PSD / AVANTE / FEDERACAO BRASIL DA ESPERANCA - FE BRASIL(PT/PC DO B/PV)] - TABOAO DA SERRA - SP EM 14/02/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-02-15T02:30:42.704",
+					"indice": 37,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE DANIEL PLANA BOGALHO EM 14/02/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-02-15T02:30:42.208",
+					"indice": 36,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE UMA NOVA ESPERANCA PARA TABOAO [UNIAO / REPUBLICANOS / SOLIDARIEDADE / MDB / PP / PRTB / AGIR] - TABOAO DA SERRA - SP EM 14/02/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-02-15T02:30:41.734",
+					"indice": 35,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE JOSE APRIGIO DA SILVA EM 14/02/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-02-15T02:30:41.363",
+					"indice": 34,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE FERNANDO FERNANDES FILHO EM 14/02/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-02-15T02:30:40.947",
+					"indice": 33,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE ERICA TEIXEIRA FRANQUINI EM 14/02/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-02-15T02:30:40.532",
+					"indice": 32,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE JEREMIAS CAJA VASCONCELOS EM 14/02/2025 23:59."
+					]
+				},
+				{
+					"classificacaoCNJ": {
+						"codigoCNJ": "1051",
+						"nome": "DECURSO DE PRAZO"
+					},
+					"data": "2025-02-15T02:30:39.927",
+					"indice": 31,
+					"nomeOriginal": [
+						"DECORRIDO PRAZO DE CARLOS EDUARDO NOBREGA EM 14/02/2025 23:59."
+					]
+				}
+			],
+			"status": "ARQUIVAMENTO DEFINITIVO",
+			"ramo_direito": "DIREITO ELEITORAL",
+			"julgamentos": [
+				{
+					"data": "2025-02-06T19:50:43.262",
+					"status": "PROVIMENTO EM PARTE",
+					"diasAteJulgamento": 120,
+					"tipo": "PARCIALMENTE PROCEDENTE"
+				}
+			],
+			"data_arquivamento": "2025-02-17T14:19:05.643",
+			"data_transito_julgado": "2025-02-17T13:50:17.908",
+			"instancia": 2,
+			"uf": "SP",
+			"unidade_origem": null,
+			"processos_relacionados": [
+				"06000831120246260416"
+			],
+			"classe": {
+				"codigo_cnj": "11548",
+				"nome": "RECURSO ELEITORAL"
+			},
+			"tutela_antecipada": false,
+			"justica_gratuita": false,
+			"prioritario": false,
+			"segredo_justica": false,
+			"processo_digital": true,
+			"data_processamento": "2026-03-19T22:22:05.328047465",
+			"numero_processo_antigo": null,
+			"tribunal_origem": null,
+			"valor_execucao": 37500
+		}
+	]
+}
