@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1779363120658,
-  "projectRoot": "/home/camargo/kronoos/scripts-automacao",
+  "lastScanned": 1779729080372,
+  "projectRoot": "/home/mathews/projects/kronoos/kronoos-scripts",
   "techStack": {
     "languages": [],
     "frameworks": [],
@@ -27,76 +27,51 @@
     "mainDirectories": [
       "examples"
     ],
-    "gitBranches": {
-      "defaultBranch": "main",
-      "branchingStrategy": null
-    }
+    "gitBranches": null
   },
   "customNotes": [],
   "directoryMap": {
     "examples": {
       "path": "examples",
       "purpose": "Example code",
-      "fileCount": 3,
-      "lastAccessed": 1779363120655,
+      "fileCount": 4,
+      "lastAccessed": 1779729080368,
       "keyFiles": [
         "business-participation-response.json",
         "dados-gerais-response.json",
+        "processos-por-documento.json",
         "registrarion-response.json"
       ]
     },
     "notebooks": {
       "path": "notebooks",
       "purpose": null,
-      "fileCount": 5,
-      "lastAccessed": 1779363120655,
+      "fileCount": 3,
+      "lastAccessed": 1779729080368,
       "keyFiles": [
-        "erros_registro.txt",
         "get-partners.ipynb",
-        "relatorio_consolidado.xlsx",
-        "relatorio_ubo.xlsx",
+        "processos-por-cpf.ipynb",
         "ubo-registration.ipynb"
       ]
-    },
-    "venv": {
-      "path": "venv",
-      "purpose": null,
-      "fileCount": 1,
-      "lastAccessed": 1779363120655,
-      "keyFiles": [
-        "pyvenv.cfg"
-      ]
-    },
-    "venv/bin": {
-      "path": "venv/bin",
-      "purpose": "Executable scripts",
-      "fileCount": 19,
-      "lastAccessed": 1779363120658,
-      "keyFiles": [
-        "Activate.ps1",
-        "activate",
-        "activate.csh"
-      ]
-    },
-    "venv/lib": {
-      "path": "venv/lib",
-      "purpose": "Library code",
-      "fileCount": 0,
-      "lastAccessed": 1779363120658,
-      "keyFiles": []
     }
   },
   "hotPaths": [
     {
       "path": "notebooks/ubo-registration.ipynb",
-      "accessCount": 5,
-      "lastAccessed": 1779366104792,
+      "accessCount": 7,
+      "lastAccessed": 1779730266957,
       "type": "file"
     },
     {
       "path": "notebooks/processos-por-cpf.ipynb",
-      "accessCount": 5,
-      "lastAccessed": 1779373170189,
+      "accessCount": 6,
+      "lastAccessed": 1779730051707,
+      "type": "file"
+    },
+    {
+      "path": "examples/dados-gerais-response.json",
+      "accessCount": 4,
+      "lastAccessed": 1779731987689,
       "type": "file"
     },
     {
@@ -112,15 +87,27 @@
       "type": "file"
     },
     {
-      "path": "examples/dados-gerais-response.json",
-      "accessCount": 1,
-      "lastAccessed": 1778590652106,
+      "path": "notebooks/get-partners.ipynb",
+      "accessCount": 2,
+      "lastAccessed": 1779730058518,
       "type": "file"
     },
     {
-      "path": "notebooks/get-partners.ipynb",
-      "accessCount": 1,
-      "lastAccessed": 1779366104598,
+      "path": "README.md",
+      "accessCount": 2,
+      "lastAccessed": 1779730058666,
+      "type": "file"
+    },
+    {
+      "path": "input/contatos-e-relacionados_documentos.json",
+      "accessCount": 2,
+      "lastAccessed": 1779730792210,
+      "type": "file"
+    },
+    {
+      "path": "notebooks/contatos-e-relacionados.ipynb",
+      "accessCount": 2,
+      "lastAccessed": 1779732213279,
       "type": "file"
     },
     {
@@ -133,12 +120,6 @@
       "path": "input/ubo_registration_documentos.json",
       "accessCount": 1,
       "lastAccessed": 1779389663420,
-      "type": "file"
-    },
-    {
-      "path": "README.md",
-      "accessCount": 1,
-      "lastAccessed": 1779389705153,
       "type": "file"
     }
   ],

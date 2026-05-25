@@ -1,5 +1,5 @@
 {
-  "order_id": 256726,
+  "order_id": 1284098,
   "status": "SUCESSO",
   "message": "INFORMATIONS_GOT",
   "data": {
@@ -1279,6 +1279,11 @@
       ],
       "emails": [
         {
+          "email": "jmfcoelho@yahoo.com.br",
+          "rate": 10,
+          "main": true
+        },
+        {
           "email": "fgcaetanoleite@gmail.com",
           "rate": 10,
           "main": true
@@ -1492,11 +1497,6 @@
           "email": "info@eliteinternational.com",
           "rate": 7,
           "main": false
-        },
-        {
-          "email": "jmfcoelho@yahoo.com.br",
-          "rate": 5,
-          "main": true
         },
         {
           "email": "claricecoppetti@yahoo.com.br",
@@ -3005,8 +3005,8 @@
       "share_capital": 205431960490.52,
       "size": "Empresa de Grande Porte",
       "score_credit": {
-        "d00": "223",
-        "d30": "228",
+        "d00": "181",
+        "d30": "223",
         "d60": "228",
         "d90": "231",
         "success": true,
@@ -3014,6 +3014,242 @@
       }
     },
     "pessoas_contato": [
+      {
+        "document": "06994461807",
+        "name": "RENATA FARIA RODRIGUES BARUZZI LOPES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "34791213734",
+        "name": "ANGELICA GARCIA COBAS LAUREANO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "35499524068",
+        "name": "CLARICE COPPETTI",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "40607712015",
+        "name": "CLAUDIO ROMEO SCHLOSSER",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "44370121787",
+        "name": "SYLVIA MARIA COUTO DOS ANJOS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "53365011072",
+        "name": "FERNANDO SABBI MELGAREJO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "63501783191",
+        "name": "RICARDO WAGNER DE ARAUJO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "67361293700",
+        "name": "MAGDA MARIA DE REGINA CHAMBRIARD",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "80148778704",
+        "name": "WILLIAM FRANCA DA SILVA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "67410090782",
+        "name": "MAURICIO TIOMNO TOLMASQUIM",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "01138221708",
+        "name": "MARIO VINICIUS CLAUSSEN SPINELLI",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "77017838734",
+        "name": "JOELSON FALCAO MENDES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "86721283700",
+        "name": "JEAN PAUL TERRA PRATES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "92362206734",
+        "name": "CARLOS JOSE DO NASCIMENTO TRAVASSOS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "95913319753",
+        "name": "CARLOS AUGUSTO BURGOS BARRETO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "07310039696",
+        "name": "RODRIGO ARAUJO ALVES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "07666600879",
+        "name": "PAULO PALAIA SICA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "76344533072",
+        "name": "RAFAEL CHAVES SANTOS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "91880742500",
+        "name": "RODRIGO COSTA LIMA E SILVA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "02312253429",
+        "name": "JULIANO DE CARVALHO DANTAS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "75537966700",
+        "name": "JOSE MAURO FERREIRA COELHO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "01470135779",
+        "name": "ANDREA MARQUES DE ALMEIDA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "02338073738",
+        "name": "ANDRE BARRETO CHIARINI",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "03138909787",
+        "name": "ROBERTO DA CUNHA CASTELLO BRANCO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "87424274600",
+        "name": "MARCELO BARBOSA DE CASTRO ZENKNER",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "73710989787",
+        "name": "EBERALDO DE ALMEIDA NETO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "13681307806",
+        "name": "RAFAEL MENDES GOMES",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "86864173704",
+        "name": "RAFAEL SALVADOR GRISOLIA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "67174191720",
+        "name": "JORGE CELESTINO RAMOS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "76629368800",
+        "name": "NELSON LUIZ COSTA SILVA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "66744407791",
+        "name": "IVAN DE SOUZA MONTEIRO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "55000304772",
+        "name": "JOAO ADALBERTO ELEK JUNIOR",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "04398040862",
+        "name": "ALDEMIR BENDINE",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "01211358615",
+        "name": "ALMIR GUILHERME BARBASSA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "01277162700",
+        "name": "GUILHERME DE OLIVEIRA ESTRELLA",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "04275039572",
+        "name": "JOSE SERGIO GABRIELLI DE AZEVEDO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "55303170730",
+        "name": "JOSE MIRANDA FORMIGLI FILHO",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "69477272787",
+        "name": "MARIA DAS GRACAS SILVA FOSTER",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      },
+      {
+        "document": "89252225820",
+        "name": "JOSE ALCIDES SANTORO MARTINS",
+        "relation": "Sócio",
+        "origin": "EXTERNAL"
+      }
+    ],
+    "sociedades": [
       {
         "name": "RENATA FARIA RODRIGUES BARUZZI LOPES",
         "document": "06994461807",
@@ -3084,407 +3320,121 @@
         "origin": "EXTERNAL"
       }
     ],
-    "sociedades": [
-      {
-        "document": "06994461807",
-        "name": "RENATA FARIA RODRIGUES BARUZZI LOPES",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "34791213734",
-        "name": "ANGELICA GARCIA COBAS LAUREANO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "35499524068",
-        "name": "CLARICE COPPETTI",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "40607712015",
-        "name": "CLAUDIO ROMEO SCHLOSSER",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "44370121787",
-        "name": "SYLVIA MARIA COUTO DOS ANJOS",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "53365011072",
-        "name": "FERNANDO SABBI MELGAREJO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "63501783191",
-        "name": "RICARDO WAGNER DE ARAUJO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "67361293700",
-        "name": "MAGDA MARIA DE REGINA CHAMBRIARD",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "80148778704",
-        "name": "WILLIAM FRANCA DA SILVA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "67410090782",
-        "name": "MAURICIO TIOMNO TOLMASQUIM",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "01138221708",
-        "name": "MARIO VINICIUS CLAUSSEN SPINELLI",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "51292165553",
-        "name": "SERGIO CAETANO LEITE",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "77017838734",
-        "name": "JOELSON FALCAO MENDES",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "86721283700",
-        "name": "JEAN PAUL TERRA PRATES",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "92362206734",
-        "name": "CARLOS JOSE DO NASCIMENTO TRAVASSOS",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "27267282865",
-        "name": "SALVADOR DAHAN",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "95913319753",
-        "name": "CARLOS AUGUSTO BURGOS BARRETO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "07310039696",
-        "name": "RODRIGO ARAUJO ALVES",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "07666600879",
-        "name": "PAULO PALAIA SICA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "32686510544",
-        "name": "CAIO MARIO PAES DE ANDRADE",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "35583487020",
-        "name": "CLAUDIO ROGERIO LINASSI MASTELLA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "43052231634",
-        "name": "JOAO HENRIQUE RITTERSHAUSSEN",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "50638270634",
-        "name": "FERNANDO ASSUMPCAO BORGES",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "76344533072",
-        "name": "RAFAEL CHAVES SANTOS",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "91880742500",
-        "name": "RODRIGO COSTA LIMA E SILVA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "02312253429",
-        "name": "JULIANO DE CARVALHO DANTAS",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "75537966700",
-        "name": "JOSE MAURO FERREIRA COELHO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "23113632803",
-        "name": "NICOLAS SIMONE",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "33486476734",
-        "name": "JOAQUIM SILVA E LUNA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "33158150034",
-        "name": "ROBERTO FURIAN ARDENGHY",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "01470135779",
-        "name": "ANDREA MARQUES DE ALMEIDA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "02338073738",
-        "name": "ANDRE BARRETO CHIARINI",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "03138909787",
-        "name": "ROBERTO DA CUNHA CASTELLO BRANCO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "40508625068",
-        "name": "RUDIMAR ANDREIS LORENZATTO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "47191147687",
-        "name": "ANELISE QUINTAO LARA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "53963890797",
-        "name": "CARLOS ALBERTO PEREIRA DE OLIVEIRA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "87424274600",
-        "name": "MARCELO BARBOSA DE CASTRO ZENKNER",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "73710989787",
-        "name": "EBERALDO DE ALMEIDA NETO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "13681307806",
-        "name": "RAFAEL MENDES GOMES",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "86864173704",
-        "name": "RAFAEL SALVADOR GRISOLIA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "43664407687",
-        "name": "SOLANGE DA SILVA GUEDES",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "54362687734",
-        "name": "HUGO REPSOLD JUNIOR",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "67174191720",
-        "name": "JORGE CELESTINO RAMOS",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "76629368800",
-        "name": "NELSON LUIZ COSTA SILVA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "66744407791",
-        "name": "IVAN DE SOUZA MONTEIRO",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "55000304772",
-        "name": "JOAO ADALBERTO ELEK JUNIOR",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "04398040862",
-        "name": "ALDEMIR BENDINE",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "34758640610",
-        "name": "JOSE EDUARDO DE BARROS DUTRA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "01211358615",
-        "name": "ALMIR GUILHERME BARBASSA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      },
-      {
-        "document": "01277162700",
-        "name": "GUILHERME DE OLIVEIRA ESTRELLA",
-        "relation": "Sócio",
-        "origin": "EXTERNAL"
-      }
-    ],
     "empresas_relacionadas": [
       {
         "document": "04383683000164",
+        "status": "Inativa",
         "name": "ACAR AMAZONAS",
         "partner": "ESTEVES PEDRO COLNAGO",
         "relation": "Presidente"
       },
       {
         "document": "02619872000168",
+        "status": "Inativa",
         "name": "C & C EMPREENDIMENTOS AGROPEC E PARTICIPACOES LTDA",
         "partner": "ESTEVES PEDRO COLNAGO"
       },
       {
         "document": "02063613000101",
+        "status": "Ativa",
         "name": "CHURRASCARIA DIVISAO",
         "partner": "PAULO AFONSO ROMANO",
         "relation": "Socio"
       },
       {
         "document": "00091652000189",
+        "status": "Inativa",
         "name": "COMPANHIA DE PESQUISA DE RECURSOS MINERAIS CPRM",
         "partner": "ESTEVES PEDRO COLNAGO",
         "relation": "Presidente"
       },
       {
         "document": "00091652000189",
+        "status": "Inativa",
         "name": "COMPANHIA DE PESQUISA DE RECURSOS MINERAIS CPRM",
         "partner": "FERNANDO PEREIRA DE CARVALHO",
         "relation": "Diretor"
       },
       {
         "document": "00091652000189",
+        "status": "Inativa",
         "name": "COMPANHIA DE PESQUISA DE RECURSOS MINERAIS CPRM",
         "partner": "PAULO AFONSO ROMANO",
         "relation": "Diretor"
       },
       {
         "document": "21790076000138",
+        "status": "Inativa",
         "name": "CURRAL DO FOGO",
         "partner": "PAULO AFONSO ROMANO"
       },
       {
         "document": "05686510000188",
+        "status": "Inativa",
         "name": "EPC ASSESSORIA E CONSULTORIA",
         "partner": "ESTEVES PEDRO COLNAGO",
         "relation": "Socio Administrador"
       },
       {
         "document": "05366492000157",
+        "status": "Inativa",
         "name": "INCORPE",
         "partner": "ESTEVES PEDRO COLNAGO"
       },
       {
         "document": "39916194000105",
+        "status": "Ativa",
         "name": "LS2F CONSULTORIA",
         "partner": "FERNANDO PEREIRA DE CARVALHO",
         "relation": "Socio"
       },
       {
         "document": "10363970000105",
+        "status": "Inativa",
         "name": "M3 GESTAO HOTELEIRA",
         "partner": "ESTEVES PEDRO COLNAGO",
         "relation": "Socio Administrador"
       },
       {
         "document": "07692292000110",
+        "status": "Inativa",
         "name": "NOVA ADMINISTRADORA",
         "partner": "ESTEVES PEDRO COLNAGO",
         "relation": "Socio"
       },
       {
         "document": "10911822000188",
+        "status": "Inativa",
         "name": "NOVA ADMINISTRADORA TERCEIRIZACAO DE MAO-DE-OBRA LTDA",
         "partner": "ESTEVES PEDRO COLNAGO",
         "relation": "Socio Administrador"
       },
       {
         "document": "13865643000140",
+        "status": "Inativa",
         "name": "NOVA COLABORADORA",
         "partner": "ESTEVES PEDRO COLNAGO",
         "relation": "Socio"
       },
       {
         "document": "05458880000168",
+        "status": "Inativa",
         "name": "PAULO AFONSO ROMANO",
         "partner": "PAULO AFONSO ROMANO",
         "relation": "Empresario Individual"
       },
       {
         "document": "04532222000106",
+        "status": "Inativa",
         "name": "PIRACEMA AUTO POSTO LTDA",
         "partner": "PAULO AFONSO ROMANO"
       }
     ]
   },
   "metadata": {
-    "user_id": 3358,
+    "user_id": 5294,
     "org_id": 2,
-    "created_at": "2026-05-12T12:52:42.994Z",
-    "updated_at": "2026-05-12T12:52:42.994Z"
+    "created_at": "2026-05-25T17:54:38.127Z",
+    "updated_at": "2026-05-25T17:54:38.127Z"
   }
 }
