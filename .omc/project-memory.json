@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1779729080372,
+  "lastScanned": 1781648473344,
   "projectRoot": "/home/mathews/projects/kronoos/kronoos-scripts",
   "techStack": {
     "languages": [],
@@ -35,7 +35,7 @@
       "path": "examples",
       "purpose": "Example code",
       "fileCount": 4,
-      "lastAccessed": 1779729080368,
+      "lastAccessed": 1781648473324,
       "keyFiles": [
         "business-participation-response.json",
         "dados-gerais-response.json",
@@ -43,85 +43,35 @@
         "registrarion-response.json"
       ]
     },
+    "input": {
+      "path": "input",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1781648473326,
+      "keyFiles": [
+        "contatos-e-relacionados_documentos.json"
+      ]
+    },
     "notebooks": {
       "path": "notebooks",
       "purpose": null,
-      "fileCount": 3,
-      "lastAccessed": 1779729080368,
+      "fileCount": 4,
+      "lastAccessed": 1781648473326,
       "keyFiles": [
+        "contatos-e-relacionados.ipynb",
         "get-partners.ipynb",
         "processos-por-cpf.ipynb",
         "ubo-registration.ipynb"
       ]
+    },
+    "responses": {
+      "path": "responses",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1781648473328,
+      "keyFiles": []
     }
   },
-  "hotPaths": [
-    {
-      "path": "notebooks/ubo-registration.ipynb",
-      "accessCount": 7,
-      "lastAccessed": 1779730266957,
-      "type": "file"
-    },
-    {
-      "path": "notebooks/processos-por-cpf.ipynb",
-      "accessCount": 6,
-      "lastAccessed": 1779730051707,
-      "type": "file"
-    },
-    {
-      "path": "examples/dados-gerais-response.json",
-      "accessCount": 4,
-      "lastAccessed": 1779731987689,
-      "type": "file"
-    },
-    {
-      "path": "examples/business-participation-response.json",
-      "accessCount": 3,
-      "lastAccessed": 1778587640175,
-      "type": "file"
-    },
-    {
-      "path": "examples/registrarion-response.json",
-      "accessCount": 2,
-      "lastAccessed": 1778587639934,
-      "type": "file"
-    },
-    {
-      "path": "notebooks/get-partners.ipynb",
-      "accessCount": 2,
-      "lastAccessed": 1779730058518,
-      "type": "file"
-    },
-    {
-      "path": "README.md",
-      "accessCount": 2,
-      "lastAccessed": 1779730058666,
-      "type": "file"
-    },
-    {
-      "path": "input/contatos-e-relacionados_documentos.json",
-      "accessCount": 2,
-      "lastAccessed": 1779730792210,
-      "type": "file"
-    },
-    {
-      "path": "notebooks/contatos-e-relacionados.ipynb",
-      "accessCount": 2,
-      "lastAccessed": 1779732213279,
-      "type": "file"
-    },
-    {
-      "path": "input/get_partners_documentos.json",
-      "accessCount": 1,
-      "lastAccessed": 1779389659677,
-      "type": "file"
-    },
-    {
-      "path": "input/ubo_registration_documentos.json",
-      "accessCount": 1,
-      "lastAccessed": 1779389663420,
-      "type": "file"
-    }
-  ],
+  "hotPaths": [],
   "userDirectives": []
 }
