@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1781648473344,
+  "lastScanned": 1782153080967,
   "projectRoot": "/home/mathews/projects/kronoos/kronoos-scripts",
   "techStack": {
     "languages": [],
@@ -25,7 +25,8 @@
     "isMonorepo": false,
     "workspaces": [],
     "mainDirectories": [
-      "examples"
+      "examples",
+      "scripts"
     ],
     "gitBranches": null
   },
@@ -34,20 +35,21 @@
     "examples": {
       "path": "examples",
       "purpose": "Example code",
-      "fileCount": 4,
-      "lastAccessed": 1781648473324,
+      "fileCount": 5,
+      "lastAccessed": 1782153080962,
       "keyFiles": [
         "business-participation-response.json",
         "dados-gerais-response.json",
         "processos-por-documento.json",
-        "registrarion-response.json"
+        "registrarion-response.json",
+        "tabela_cartorios.xlsx"
       ]
     },
     "input": {
       "path": "input",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1781648473326,
+      "lastAccessed": 1782153080962,
       "keyFiles": [
         "contatos-e-relacionados_documentos.json"
       ]
@@ -56,7 +58,7 @@
       "path": "notebooks",
       "purpose": null,
       "fileCount": 4,
-      "lastAccessed": 1781648473326,
+      "lastAccessed": 1782153080963,
       "keyFiles": [
         "contatos-e-relacionados.ipynb",
         "get-partners.ipynb",
@@ -67,11 +69,29 @@
     "responses": {
       "path": "responses",
       "purpose": null,
-      "fileCount": 0,
-      "lastAccessed": 1781648473328,
-      "keyFiles": []
+      "fileCount": 1,
+      "lastAccessed": 1782153080965,
+      "keyFiles": [
+        "seed_cartorios_errors_20260616_202936.json"
+      ]
+    },
+    "scripts": {
+      "path": "scripts",
+      "purpose": "Build/utility scripts",
+      "fileCount": 1,
+      "lastAccessed": 1782153080966,
+      "keyFiles": [
+        "seed_cartorios.py"
+      ]
     }
   },
-  "hotPaths": [],
+  "hotPaths": [
+    {
+      "path": "scripts/retry_seed_cartorios.py",
+      "accessCount": 1,
+      "lastAccessed": 1782153279175,
+      "type": "file"
+    }
+  ],
   "userDirectives": []
 }
