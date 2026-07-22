@@ -23,11 +23,13 @@ scripts-automacao/
 ├── input/                          # Arquivos de entrada (listas de documentos)
 │   ├── processos_documentos.json
 │   ├── get_partners_documentos.json
-│   └── ubo_registration_documentos.json
+│   ├── ubo_registration_documentos.json
+│   └── teste_resumo_ia_escavador_processos.json
 ├── notebooks/                      # Notebooks Jupyter
 │   ├── processos-por-cpf.ipynb
 │   ├── get-partners.ipynb
-│   └── ubo-registration.ipynb
+│   ├── ubo-registration.ipynb
+│   └── teste-resumo-ia-escavador.ipynb
 ├── responses/                      # Gerado em runtime
 │   ├── processos-por-cpf/
 │   │   ├── relatorio_processos.xlsx
@@ -35,9 +37,12 @@ scripts-automacao/
 │   ├── get-partners/
 │   │   ├── relatorio_consolidado.xlsx
 │   │   └── cache/
-│   └── ubo-registration/
-│       ├── relatorio_ubo.xlsx
-│       ├── erros_registro.txt
+│   ├── ubo-registration/
+│   │   ├── relatorio_ubo.xlsx
+│   │   ├── erros_registro.txt
+│   │   └── cache/
+│   └── teste-resumo-ia-escavador/
+│       ├── relatorio_metricas_resumo_ia.xlsx
 │       └── cache/
 └── examples/                       # Exemplos de resposta da API
 ```
@@ -148,7 +153,33 @@ Consulta dados cadastrais e quadro societário de empresas (CNPJs).
 
 ---
 
-### 3. UBO Registration (`ubo-registration.ipynb`)
+### 3. Teste de Performance — Resumo Inteligente IA (`teste-resumo-ia-escavador.ipynb`)
+
+Testa as 3 chamadas da API de "Resumo Inteligente de Processos (IA)" do **escavador.com** contra uma lista de números de processo, medindo tempo de resposta e quantidade de verificações de status até o resumo ficar pronto. Objetivo: gerar métricas para a equipe decidir se continua com esse distribuidor.
+
+**API:** `https://api.escavador.com/api/v2` — endpoints `POST .../ia/resumo/solicitar-atualizacao`, `GET .../ia/resumo/status` e `GET .../ia/resumo`
+
+**Input:** `input/teste_resumo_ia_escavador_processos.json` (campos `numero_processo` — dígitos, com ou sem formatação CNJ — e `descricao`)
+
+**Como usar:**
+1. Preencha `input/teste_resumo_ia_escavador_processos.json` com os números de processo desejados
+2. Ajuste `TOKEN` na primeira célula do notebook, se necessário
+3. Abra `notebooks/teste-resumo-ia-escavador.ipynb` no Jupyter e execute todas as células (`Run All`)
+
+**Output:** `responses/teste-resumo-ia-escavador/relatorio_metricas_resumo_ia.xlsx`
+
+| Aba | Conteúdo |
+|---|---|
+| Métricas por Processo | Uma linha por processo: tempos de cada etapa, quantidade de verificações de status, sinal (✅/⚠️) e erros |
+| Estatísticas Agregadas | Contagens, tempo médio/mediano/mín/máx/desvio-padrão e uma recomendação textual automática |
+
+> A coluna **Tempo até Finalizado (s)** é a métrica-chave: acima de 10s (configurável em `BAD_SIGNAL_THRESHOLD_SEG`) é marcada como "⚠️ Mau sinal" e destacada em vermelho na planilha.
+>
+> A API do Escavador não permite regenerar o resumo de um mesmo processo mais de uma vez em 24h sem novas movimentações — nesse caso o notebook não conta como erro, apenas registra `JA_ATUALIZADO` e busca o conteúdo já existente (sem medir tempo de geração). Para medir o tempo real de geração é preciso testar processos que ainda não tiveram resumo solicitado nas últimas 24h, ou aguardar esse intervalo.
+
+---
+
+### 4. UBO Registration (`ubo-registration.ipynb`)
 
 Identifica os beneficiários finais (UBOs — Ultimate Beneficial Owners) de empresas.
 

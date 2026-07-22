@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"source .venv/bin/activate 2>/dev/null && python3 - <<'EOF'\\nimport openpyxl\\nwb = openpyxl.load_workbook(\\\"responses/teste-resumo-ia-escavador/relatorio_metricas_resumo_ia.xlsx\\\")\\nprint(\\...",
+  "error": "Exit code 2\n---cache---\nls: cannot access 'responses/teste-resumo-ia-escavador/cache/': No such file or directory",
+  "timestamp": "2026-07-13T22:06:23.500Z",
+  "retry_count": 1
+}

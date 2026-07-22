@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1782153080967,
+  "lastScanned": 1784743931140,
   "projectRoot": "/home/mathews/projects/kronoos/kronoos-scripts",
   "techStack": {
     "languages": [],
@@ -36,7 +36,7 @@
       "path": "examples",
       "purpose": "Example code",
       "fileCount": 5,
-      "lastAccessed": 1782153080962,
+      "lastAccessed": 1784743931132,
       "keyFiles": [
         "business-participation-response.json",
         "dados-gerais-response.json",
@@ -48,21 +48,23 @@
     "input": {
       "path": "input",
       "purpose": null,
-      "fileCount": 1,
-      "lastAccessed": 1782153080962,
+      "fileCount": 2,
+      "lastAccessed": 1784743931137,
       "keyFiles": [
-        "contatos-e-relacionados_documentos.json"
+        "contatos-e-relacionados_documentos.json",
+        "teste_resumo_ia_escavador_processos.json"
       ]
     },
     "notebooks": {
       "path": "notebooks",
       "purpose": null,
-      "fileCount": 4,
-      "lastAccessed": 1782153080963,
+      "fileCount": 5,
+      "lastAccessed": 1784743931137,
       "keyFiles": [
         "contatos-e-relacionados.ipynb",
         "get-partners.ipynb",
         "processos-por-cpf.ipynb",
+        "teste-resumo-ia-escavador.ipynb",
         "ubo-registration.ipynb"
       ]
     },
@@ -70,7 +72,7 @@
       "path": "responses",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1782153080965,
+      "lastAccessed": 1784743931138,
       "keyFiles": [
         "seed_cartorios_errors_20260616_202936.json"
       ]
@@ -78,18 +80,55 @@
     "scripts": {
       "path": "scripts",
       "purpose": "Build/utility scripts",
-      "fileCount": 1,
-      "lastAccessed": 1782153080966,
+      "fileCount": 2,
+      "lastAccessed": 1784743931138,
       "keyFiles": [
+        "retry_seed_cartorios.py",
         "seed_cartorios.py"
       ]
     }
   },
   "hotPaths": [
     {
-      "path": "scripts/retry_seed_cartorios.py",
+      "path": "README.md",
+      "accessCount": 6,
+      "lastAccessed": 1784744549694,
+      "type": "file"
+    },
+    {
+      "path": "input/teste_resumo_ia_escavador_processos.json",
+      "accessCount": 4,
+      "lastAccessed": 1783982829634,
+      "type": "file"
+    },
+    {
+      "path": "notebooks/processos-por-cpf.ipynb",
       "accessCount": 1,
-      "lastAccessed": 1782153279175,
+      "lastAccessed": 1783978417989,
+      "type": "file"
+    },
+    {
+      "path": "notebooks/contatos-e-relacionados.ipynb",
+      "accessCount": 1,
+      "lastAccessed": 1783978418511,
+      "type": "file"
+    },
+    {
+      "path": "notebooks/teste-resumo-ia-escavador.ipynb",
+      "accessCount": 1,
+      "lastAccessed": 1783980059859,
+      "type": "file"
+    },
+    {
+      "path": "responses/teste-resumo-ia-escavador/cache/15142900520258260378.json",
+      "accessCount": 1,
+      "lastAccessed": 1783981979988,
+      "type": "file"
+    },
+    {
+      "path": "scripts/seed_cartorios.py",
+      "accessCount": 1,
+      "lastAccessed": 1784744559179,
       "type": "file"
     }
   ],
