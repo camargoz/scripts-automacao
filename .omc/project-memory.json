@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1784743931140,
+  "lastScanned": 1785160095821,
   "projectRoot": "/home/mathews/projects/kronoos/kronoos-scripts",
   "techStack": {
     "languages": [],
@@ -36,7 +36,7 @@
       "path": "examples",
       "purpose": "Example code",
       "fileCount": 5,
-      "lastAccessed": 1784743931132,
+      "lastAccessed": 1785160095816,
       "keyFiles": [
         "business-participation-response.json",
         "dados-gerais-response.json",
@@ -49,7 +49,7 @@
       "path": "input",
       "purpose": null,
       "fileCount": 2,
-      "lastAccessed": 1784743931137,
+      "lastAccessed": 1785160095817,
       "keyFiles": [
         "contatos-e-relacionados_documentos.json",
         "teste_resumo_ia_escavador_processos.json"
@@ -58,21 +58,21 @@
     "notebooks": {
       "path": "notebooks",
       "purpose": null,
-      "fileCount": 5,
-      "lastAccessed": 1784743931137,
+      "fileCount": 6,
+      "lastAccessed": 1785160095819,
       "keyFiles": [
         "contatos-e-relacionados.ipynb",
         "get-partners.ipynb",
+        "metricas-processos-por-documento.ipynb",
         "processos-por-cpf.ipynb",
-        "teste-resumo-ia-escavador.ipynb",
-        "ubo-registration.ipynb"
+        "teste-resumo-ia-escavador.ipynb"
       ]
     },
     "responses": {
       "path": "responses",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1784743931138,
+      "lastAccessed": 1785160095819,
       "keyFiles": [
         "seed_cartorios_errors_20260616_202936.json"
       ]
@@ -81,7 +81,7 @@
       "path": "scripts",
       "purpose": "Build/utility scripts",
       "fileCount": 2,
-      "lastAccessed": 1784743931138,
+      "lastAccessed": 1785160095819,
       "keyFiles": [
         "retry_seed_cartorios.py",
         "seed_cartorios.py"
@@ -91,14 +91,20 @@
   "hotPaths": [
     {
       "path": "README.md",
-      "accessCount": 6,
-      "lastAccessed": 1784744549694,
+      "accessCount": 13,
+      "lastAccessed": 1784747636918,
       "type": "file"
     },
     {
       "path": "input/teste_resumo_ia_escavador_processos.json",
       "accessCount": 4,
       "lastAccessed": 1783982829634,
+      "type": "file"
+    },
+    {
+      "path": "scripts/seed_cartorios.py",
+      "accessCount": 2,
+      "lastAccessed": 1784744811238,
       "type": "file"
     },
     {
@@ -123,12 +129,6 @@
       "path": "responses/teste-resumo-ia-escavador/cache/15142900520258260378.json",
       "accessCount": 1,
       "lastAccessed": 1783981979988,
-      "type": "file"
-    },
-    {
-      "path": "scripts/seed_cartorios.py",
-      "accessCount": 1,
-      "lastAccessed": 1784744559179,
       "type": "file"
     }
   ],

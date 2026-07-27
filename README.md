@@ -9,7 +9,7 @@ Coleção de notebooks Jupyter para consulta de dados jurídicos e empresariais 
 **Python 3.9+** com os pacotes:
 
 ```bash
-pip install requests pandas openpyxl
+pip install requests pandas openpyxl pymongo
 ```
 
 **API local rodando** nos endereços configurados em cada notebook (ver seção de cada automação).
@@ -29,7 +29,8 @@ scripts-automacao/
 │   ├── processos-por-cpf.ipynb
 │   ├── get-partners.ipynb
 │   ├── ubo-registration.ipynb
-│   └── teste-resumo-ia-escavador.ipynb
+│   ├── teste-resumo-ia-escavador.ipynb
+│   └── metricas-processos-por-documento.ipynb
 ├── responses/                      # Gerado em runtime
 │   ├── processos-por-cpf/
 │   │   ├── relatorio_processos.xlsx
@@ -41,9 +42,11 @@ scripts-automacao/
 │   │   ├── relatorio_ubo.xlsx
 │   │   ├── erros_registro.txt
 │   │   └── cache/
-│   └── teste-resumo-ia-escavador/
-│       ├── relatorio_metricas_resumo_ia.xlsx
-│       └── cache/
+│   ├── teste-resumo-ia-escavador/
+│   │   ├── relatorio_metricas_resumo_ia.xlsx
+│   │   └── cache/
+│   └── metricas-processos-por-documento/
+│       └── relatorio_metricas_processos_por_documento.xlsx
 └── examples/                       # Exemplos de resposta da API
 ```
 
@@ -212,3 +215,35 @@ Identifica os beneficiários finais (UBOs — Ultimate Beneficial Owners) de emp
 | List of UBOs / UBOs Ownership (%) | Laranja | Relação e participação dos sócios |
 | UBO Name / UBO Tax ID | Roxo | Identificação do sócio individual |
 | UBO Address / Tax Status / Phone / Date of Birth | Cinza | Campos coletados mas ainda não preenchidos pela API |
+
+---
+
+### 5. Métricas Processos por Documento (`metricas-processos-por-documento.ipynb`)
+
+Consulta direto no MongoDB (coleção `requisicaoapis`, banco `kronoos`) quantos
+pedidos do serviço `ProcessosPorDocumento` foram feitos no ano corrente e
+quantos retornaram 1000 ou mais itens no total — um sinal de CPF/CNPJ com
+volume atípico de processos. Diferente das outras automações, não depende de
+nenhuma API nem de arquivo de input: a fonte é só o banco.
+
+> Quando a resposta de um pedido tem muitos itens, a API salva o resultado em
+> vários documentos (lotes) com o mesmo `id_pedido` em vez de um só. O notebook
+> agrupa por `id_pedido` e soma os itens de todos os lotes antes de comparar
+> com o limiar de 1000 — um pedido com 10 lotes de 1000 itens cada conta como
+> 1 pedido com 10.000 itens, não como 10 buscas de 1000.
+
+**Banco:** MongoDB (`requisicaoapis`, coleção do banco `kronoos`) — string de
+conexão configurável via variável de ambiente `MONGO_URI` (tem um valor padrão
+já configurado na primeira célula do notebook).
+
+**Como usar:**
+1. Abra `notebooks/metricas-processos-por-documento.ipynb` no Jupyter
+2. Execute todas as células (`Run All`) — a consulta agregada pode levar
+   alguns minutos, pois a coleção tem milhões de documentos
+
+**Output:** `responses/metricas-processos-por-documento/relatorio_metricas_processos_por_documento.xlsx`
+
+| Aba | Conteúdo |
+|---|---|
+| Resumo Geral | Total de pedidos (`id_pedido` distintos) no ano, quantidade e % com 1000+ itens somando todos os lotes |
+| Pedidos com 1000+ Itens | Uma linha por `id_pedido` que somou 1000+ itens entre todos os seus lotes, com o total de itens, a quantidade de lotes e a data da primeira busca |
