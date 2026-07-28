@@ -24,13 +24,18 @@ scripts-automacao/
 │   ├── processos_documentos.json
 │   ├── get_partners_documentos.json
 │   ├── ubo_registration_documentos.json
-│   └── teste_resumo_ia_escavador_processos.json
+│   ├── teste_resumo_ia_escavador_processos.json
+│   ├── ouro_bruto_pj_documentos.json
+│   ├── ouro_bruto_pf_documentos.json
+│   ├── ouro_fino_pf_documentos.json
+│   └── ouro_fino_pj_documentos.json
 ├── notebooks/                      # Notebooks Jupyter
 │   ├── processos-por-cpf.ipynb
 │   ├── get-partners.ipynb
 │   ├── ubo-registration.ipynb
 │   ├── teste-resumo-ia-escavador.ipynb
-│   └── metricas-processos-por-documento.ipynb
+│   ├── metricas-processos-por-documento.ipynb
+│   └── reputacional-listas-ppe.ipynb
 ├── responses/                      # Gerado em runtime
 │   ├── processos-por-cpf/
 │   │   ├── relatorio_processos.xlsx
@@ -45,8 +50,15 @@ scripts-automacao/
 │   ├── teste-resumo-ia-escavador/
 │   │   ├── relatorio_metricas_resumo_ia.xlsx
 │   │   └── cache/
-│   └── metricas-processos-por-documento/
-│       └── relatorio_metricas_processos_por_documento.xlsx
+│   ├── metricas-processos-por-documento/
+│   │   └── relatorio_metricas_processos_por_documento.xlsx
+│   └── reputacional-listas-ppe/
+│       ├── relatorio_ouro_bruto_pj.xlsx (+ pf / ouro_fino_pj / ouro_fino_pf)
+│       ├── erros_ouro_bruto_pj.txt (+ pf / ouro_fino_pj / ouro_fino_pf)
+│       └── cache/
+│           ├── socioambientais/
+│           ├── internacionais/
+│           └── ppe/
 └── examples/                       # Exemplos de resposta da API
 ```
 
@@ -247,3 +259,41 @@ já configurado na primeira célula do notebook).
 |---|---|
 | Resumo Geral | Total de pedidos (`id_pedido` distintos) no ano, quantidade e % com 1000+ itens somando todos os lotes |
 | Pedidos com 1000+ Itens | Uma linha por `id_pedido` que somou 1000+ itens entre todos os seus lotes, com o total de itens, a quantidade de lotes e a data da primeira busca |
+
+---
+
+### 6. Reputacional + Listas Internacionais + PPE (`reputacional-listas-ppe.ipynb`)
+
+Cruza uma lista de documentos (CPF/CNPJ) contra três fontes ao mesmo tempo:
+
+- **API** (`http://10.210.10.19:3003/reputational`) — extrai a lista `socioambientais` da
+  resposta.
+- **Postgres** `kronoos-bases`, tabela `lista_internacionais_atual` — busca por `nome`
+  (ILIKE) restrito a registros cujo `titulo` contenha `CSNU` ou `OFAC`.
+- **Postgres** `kronoos-bases`, tabela `lista_ppe_atual` — busca pelo documento (`cpf`);
+  se o documento for um PPE Titular, busca também todos os documentos relacionados a ele
+  (`pep_relacionado`).
+
+O arquivo de entrada é `examples/docs_para_buscar.xlsx` (4 abas: Ouro Bruto PJ, Ouro
+Bruto PF, Ouro Fino PF, Ouro Fino PJ). Rode `scripts/convert_docs_para_buscar.py` para
+gerar os 4 JSONs de input a partir dessa planilha (regenerar sempre que a planilha for
+atualizada).
+
+**Input:** `input/ouro_bruto_pj_documentos.json`, `ouro_bruto_pf_documentos.json`,
+`ouro_fino_pf_documentos.json`, `ouro_fino_pj_documentos.json`
+
+**Como usar:**
+1. Rode `python scripts/convert_docs_para_buscar.py` para (re)gerar os 4 JSONs de input
+2. Abra `notebooks/reputacional-listas-ppe.ipynb` no Jupyter e execute todas as células (`Run All`)
+
+**Output:** um `.xlsx` e um `.txt` de erros por página de entrada, em
+`responses/reputacional-listas-ppe/`:
+
+| Arquivo | Conteúdo |
+|---|---|
+| `relatorio_ouro_bruto_pj.xlsx` (e as outras 3 páginas) | 3 abas: **Socioambientais**, **Listas Internacionais**, **PPE** — uma linha por resultado encontrado (um documento com múltiplos resultados no mesmo tópico aparece em linhas consecutivas) |
+| `erros_ouro_bruto_pj.txt` (e as outras 3 páginas) | Log de falhas por documento, com a etapa que falhou (`Socioambientais (API)`, `Listas Internacionais (Banco)` ou `PPE (Banco)`) |
+
+> O cache fica em `responses/reputacional-listas-ppe/cache/`, dividido em subpastas por
+> fonte (`socioambientais/`, `internacionais/`, `ppe/`), já que cada documento tem até 3
+> respostas cacheadas de origens diferentes.
