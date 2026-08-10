@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1785256975637,
+  "lastScanned": 1786384621999,
   "projectRoot": "/home/mathews/projects/kronoos/kronoos-scripts",
   "techStack": {
     "languages": [],
@@ -36,7 +36,7 @@
       "path": "examples",
       "purpose": "Example code",
       "fileCount": 7,
-      "lastAccessed": 1785256975628,
+      "lastAccessed": 1786384621992,
       "keyFiles": [
         "business-participation-response.json",
         "dados-gerais-response.json",
@@ -49,7 +49,7 @@
       "path": "input",
       "purpose": null,
       "fileCount": 7,
-      "lastAccessed": 1785256975632,
+      "lastAccessed": 1786384621993,
       "keyFiles": [
         "contatos-e-relacionados_documentos.json",
         "ouro_bruto_pf_documentos.json",
@@ -61,21 +61,21 @@
     "notebooks": {
       "path": "notebooks",
       "purpose": null,
-      "fileCount": 7,
-      "lastAccessed": 1785256975633,
+      "fileCount": 8,
+      "lastAccessed": 1786384621995,
       "keyFiles": [
         "contatos-e-relacionados.ipynb",
         "get-partners.ipynb",
         "metricas-processos-por-documento.ipynb",
         "processos-por-cpf.ipynb",
-        "reputacional-listas-ppe.ipynb"
+        "relatorio-certidoes-pedidos.ipynb"
       ]
     },
     "responses": {
       "path": "responses",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1785256975633,
+      "lastAccessed": 1786384621996,
       "keyFiles": [
         "seed_cartorios_errors_20260616_202936.json"
       ]
@@ -84,7 +84,7 @@
       "path": "scripts",
       "purpose": "Build/utility scripts",
       "fileCount": 3,
-      "lastAccessed": 1785256975633,
+      "lastAccessed": 1786384621997,
       "keyFiles": [
         "convert_docs_para_buscar.py",
         "retry_seed_cartorios.py",
@@ -101,8 +101,8 @@
     },
     {
       "path": "notebooks/reputacional-listas-ppe.ipynb",
-      "accessCount": 5,
-      "lastAccessed": 1785186451607,
+      "accessCount": 6,
+      "lastAccessed": 1785258326363,
       "type": "file"
     },
     {
@@ -113,14 +113,14 @@
     },
     {
       "path": "scripts/seed_cartorios.py",
-      "accessCount": 3,
-      "lastAccessed": 1785181923855,
+      "accessCount": 4,
+      "lastAccessed": 1785257993315,
       "type": "file"
     },
     {
       "path": "scripts/convert_docs_para_buscar.py",
-      "accessCount": 2,
-      "lastAccessed": 1785183230487,
+      "accessCount": 3,
+      "lastAccessed": 1785257992965,
       "type": "file"
     },
     {
@@ -163,6 +163,24 @@
       "path": "input/test_pf_documentos.json",
       "accessCount": 1,
       "lastAccessed": 1785183643132,
+      "type": "file"
+    },
+    {
+      "path": "scripts/retry_seed_cartorios.py",
+      "accessCount": 1,
+      "lastAccessed": 1785257993593,
+      "type": "file"
+    },
+    {
+      "path": "examples/reputational-por-documento-response.json",
+      "accessCount": 1,
+      "lastAccessed": 1785258019521,
+      "type": "file"
+    },
+    {
+      "path": "notebooks/relatorio-certidoes-pedidos.ipynb",
+      "accessCount": 1,
+      "lastAccessed": 1785264944352,
       "type": "file"
     }
   ],
